@@ -189,7 +189,7 @@
         <castItem>Орина — старчиха</castItem>
         <castItem></castItem>
       </castList>
-      <div type="act">
+      <div xml:id="DybbukA_Act1" type="act" n="1" ana="syn">
         <head>ДІЯ ПЕРША</head>
         <div xml:id="DybbukA_Act1_Scene1" type="scene" n="1">
           <head>1</head>

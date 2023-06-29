@@ -1,6 +1,7 @@
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xml:lang="yid" xml:id="yid000001" xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -16,7 +17,7 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="Bobe" sex="FEMALE"/>
+          <person sex="FEMALE" xml:id="Bobe"/>
           <person xml:id="Bashe" sex="FEMALE"/>
           <person xml:id="First-Jew" sex="MALE"/>
           <person xml:id="Second-Jew" sex="MALE"/>
@@ -61,7 +62,7 @@
       </particDesc>
     </profileDesc>
   </teiHeader>
-  <text type="DybbukA" xml:id="DybbukA" source="MS1989">
+  <text>
     <body>
       <div xml:id="DybbukA_Act1" type="act" n="1" ana="syn">
         <div xml:id="DybbukA_Act1_Scene1" type="scene" n="1">

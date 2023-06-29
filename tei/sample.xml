@@ -194,6 +194,7 @@
         <div type="scene">
           <head>1</head>
           <stage>Запалила Ганна у печі. Стала, схилилась на комин, сумує:</stage>
+          <stage type="music">N1</stage>
           <sp who="#Hasidim" xml:id="DybbukA_SP0001_a">
             <speaker>חסידים</speaker>
             <lg>

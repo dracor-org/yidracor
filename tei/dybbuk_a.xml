@@ -5,13 +5,29 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>The Dybbuk Synoptic Edition</title>
+        <title type="main">Dybbuk</title>
+        <author>
+          <persName>
+            <forename>Some</forename>
+            <surname>Author</surname>
+          </persName>
+          <idno type="wikidata">Q4439957</idno>
+        </author>
       </titleStmt>
       <publicationStmt>
-        <p>2023-05-20</p>
+        <publisher xml:id="dracor">DraCor</publisher>
+        <idno type="URL">https://dracor.org</idno>
+        <availability>
+          <licence>
+            <ab>CC0 1.0</ab>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
+          </licence>
+        </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Information about the source</p>
+        <bibl type="digitalSource">
+          <idno type="URL">https://example.com</idno>
+        </bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -57,7 +73,6 @@
           <personGrp xml:id="Friends" sex="FEMALE"/>
           <personGrp xml:id="Farmers" sex="MALE"/>
           <personGrp xml:id="WomenFarmers" sex="FEMALE"/>
-
         </listPerson>
       </particDesc>
     </profileDesc>

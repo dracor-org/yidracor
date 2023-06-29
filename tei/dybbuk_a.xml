@@ -119,8 +119,7 @@
                 <orig> אברענען</orig>
                 <reg> אַ ברענען</reg>
               </choice> ? איהר האט נישט געהערט</p>
-            <p>פין דיא אומריינע לייט וואס האבען זיך זאנאדעט<note>Pejorative: sneak in, insinuate
-                oneself.</note>צו אונז אין שטעטעל?</p>
+            <p>פין דיא אומריינע לייט וואס האבען זיך זאנאדעטצו אונז אין שטעטעל?</p>
           </sp>
           <sp who="#Second-Jew" xml:id="DybbukA_SP0005_a">
 
@@ -203,9 +202,7 @@
             <p> אזוי וויא <choice>
                 <orig> פאר אַיאהרען</orig>
                 <reg> פֿאַר אַ יאָרן</reg>
-              </choice> . געדענקסט פאר יאהרען האבען מיר פערדיענט אזוי פיעל <note>Currency,
-                previously used in the Ottoman Empire and south-eastern Europe. In Romanian and
-                other languages it is synonymous with 'money' in general.</note> פאריס. </p>
+              </choice> . געדענקסט פאר יאהרען האבען מיר פערדיענט אזוי פיעל  פאריס. </p>
           </sp>
           <sp who="#Schneiderl-yingle" xml:id="DybbukA_SP0017_a">
             <speaker>ש. יונגעל</speaker>
@@ -262,11 +259,9 @@
                   <orig> אפארע</orig>
                   <reg> א פארע</reg>
                 </choice>
-                <note>Currency, previously used in the Ottoman Empire and south-eastern Europe. In
-                  Romanian and other languages it is synonymous with 'money' in general.</note> אין
+                 אין
                 שטיפט מיך אריין... </l>
-              <l> ניין איך וויל זאגען ארויס<note>The use of rhymes is typical of traditional the
-                  genre of the Purim play.</note>.</l>
+              <l> ניין איך וויל זאגען ארויס.</l>
             </lg>
           </sp>
           <stage type="exit">(ביידע אב)</stage>
@@ -317,9 +312,7 @@
           </sp>
           <sp who="#Second-Jewess" xml:id="DybbukA_SP0030_a">
             <speaker>2 יודענע</speaker>
-            <p>אז טאקע נור <add>ער</add> איך בין ניט ווערטה צו דערמאנען זאלל<note>A recurring spoken
-                formula repeated throughout the play. Lit. ‘I am not worthy to mention [Him]’, here
-                used as a respectful reference to God.</note>זיין מיט אונז און מיט אונזערע קליינע
+            <p>אז טאקע נור <add>ער</add> איך בין ניט ווערטה צו דערמאנען זאללזיין מיט אונז און מיט אונזערע קליינע
               קינדער עס זאל אונז חלילה ניט שאַטען. </p>
           </sp>
           <sp who="#First-Jewess" xml:id="DybbukA_SP0031_a">
@@ -443,25 +436,20 @@
           <stage type="location">(אים ציממער)</stage>
           <stage type="entrance">אמאליא</stage>
           <stage>(מיט איין בוך ביים טיש)</stage>
-          <note>Amalia sits down by her desk, and translates the following French phrases into
-            German.</note>
+          
           <sp who="#Amalia" xml:id="DybbukA_SP0042_a">
             <speaker><supplied>אמאליא</supplied></speaker>
             <p>
-              <foreign xml:lang="fr"> אווע ווא לע שאַפא?</foreign><note>Avez-vous le chapeau? [do
-                you have the hat?]</note>
+              <foreign xml:lang="fr"> אווע ווא לע שאַפא?</foreign>
               <foreign xml:lang="de">האבען זיא דען הוט.</foreign>
-              <foreign xml:lang="fr"> וואַי מאנסיע זשע לע שאפא.</foreign><note>Oui, monsieur, j'ai
-                le chapeau [yes sir, I have the hat]</note><foreign xml:lang="de"> יאה מיין הערר איך
+              <foreign xml:lang="fr"> וואַי מאנסיע זשע לע שאפא.</foreign><foreign xml:lang="de"> יאה מיין הערר איך
                 האבע דען הוט.</foreign>
-              <foreign xml:lang="fr"> אווע ווא מאן שאפא?</foreign><note>Avez-vous mon chapeau? [do
-                you have my hat?]</note>
+              <foreign xml:lang="fr"> אווע ווא מאן שאפא?</foreign>
               <foreign xml:lang="de">האבען זיא מיינען הוט.</foreign>
               <foreign xml:lang="fr"> נון מאנסיע <choice>
                   <orig> זשענע</orig>
                   <reg> זשע נע</reg>
-                </choice> פא וואטער שאפא.</foreign><note>Non, monsieur, je n'ai pas votre chapeau
-                [no sir, I do not have your hat]</note><foreign xml:lang="de"> ניין מיין הערר איך
+                </choice> פא וואטער שאפא.</foreign><foreign xml:lang="de"> ניין מיין הערר איך
                 האבע איהרען הוט ניכט.)</foreign>
             </p>
           </sp>
@@ -475,23 +463,18 @@
                 <corr> צאינה-וראינה</corr>
                 <sic>צאנע וארענע״</sic>
               </choice>
-              <note>צאנה וראנה A popular book in Yiddish with accompanying the Weekly Portions of
-                the bible.</note> אדער דעם <choice>
+               אדער דעם <choice>
                 <sic>גדולות</sic>
                 <corr> גדולת</corr>
-              </choice> משה<note>Gdulat Moyshe. Originally published in Hebrew, this book also
-                circulated in Yiddish versions. See https://www.hebrewbooks.org/36305</note>. אדער
-              דעם ״שבחי בעל שם טוב״ <note>Shivḥe ha-Besht (In Praise of the Ba‘al Shem Tov) – a
-                popular book with hagiographical stories about the founder of hasidism.
-                https://yivoencyclopedia.org/article.aspx/Baal_Shem_Tov</note>אזוינע הייליגע <choice>
+              </choice> משה. אדער
+              דעם ״שבחי בעל שם טוב״ אזוינע הייליגע <choice>
                 <corr> מעשׂיות</corr>
                 <sic>מעשות</sic>
               </choice> פין צדיקים פין גיטע יודען. נישט אט דיא פאסקיטצווע <choice>
                 <corr> מטומאניק</corr>
                 <sic>מעטימעניקליך</sic>
               </choice>
-              <note>An obscure term, apparently from the Hebrew טמא, ‘impure’, used to denote
-                “impure people”.</note> נוא ווארף עס שוין אוועק אין דער ערד אריין לאמיך עס ניט
+               נוא ווארף עס שוין אוועק אין דער ערד אריין לאמיך עס ניט
               אונקוקען פאר מיינע אויגען</p>
           </sp>
           <sp who="#Amalia" xml:id="DybbukA_SP0044_a">
@@ -512,8 +495,7 @@
                 <corr> מטומאניקל</corr>
                 <sic>מעטימעניקעל.</sic>
               </choice>
-              <note>An obscure term, apparentlצי אין the Hebrew טמא, ‘impure’, used to denote
-                “impure people”</note> מאכט זיך עס אזוי פאמעלעך צי אין גאר ניט, טאמער וואלסטו עס נאך
+               מאכט זיך עס אזוי פאמעלעך צי אין גאר ניט, טאמער וואלסטו עס נאך
               געגעבען <choice>
                 <orig> אקיש</orig>
                 <reg> אַ קוש</reg>
@@ -579,8 +561,7 @@
               אבגעדוסט דיא פאות מיט דער <choice>
                 <sic>באַרד</sic>
                 <corr> באָרד</corr>
-              </choice>, וויא איין המבדילניק<note>Obscure word. Perhaps referring to a
-                non-Hasid.</note>. ניין ניין זאג איך. ער טאר מיר מעהר ניט אריין קימען אין שטיב. עס
+              </choice>, וויא איין המבדילניק. ניין ניין זאג איך. ער טאר מיר מעהר ניט אריין קימען אין שטיב. עס
               איז שוין צייט דיא זאלסט בעססער אונהייבען צי טראכטען פין עולם הבא וועגען זאלסט
               אונהייבען <choice>
                 <corr/>
@@ -618,16 +599,14 @@
                 <sic>צענה ורענה</sic>
                 <corr> צאינה-וראינה</corr>
               </choice>
-              <note>The following quasi sermon is a parody full of mistakes and misquotations
-                related to Jewish traditional narratives (biblical, midrashic, etc.).</note> שרייבט
+               שרייבט
               בשעת דוד המלך האט געפֿיהרט זיין זיהן יצחק צי דער עקדה איז איהם אקעגען געקימען בתיה בת
               פרעה אין פרעגט איהם <choice>
                 <corr> מאין באת</corr>
                 <sic>מעאין בָתאָ</sic>
               </choice>
                ,ווער ביזטו? האט זיך דוד המלך אונגערופען
-              מיט גדולקייט <foreign xml:lang="he"> אני שלמה </foreign><note>Parody, ‘I am Solomon’
-                instead of ‘I am Joseph’ (cf. Gen. 45:4)</note> אין דערפאר ווייל ער האט געזאגט מיט
+              מיט גדולקייט <foreign xml:lang="he"> אני שלמה </foreign> אין דערפאר ווייל ער האט געזאגט מיט
               גדולקייט האט איהם דער אשמדי אויסגעשפיגען אויף 400 מאַהל דיא ווייט אין ער האט ניט זוכה
               געוועהן דיא יודען אריין ציפיהרען אין דער הייליגער מדבר אריין - זעהסטו שוין מיין קינד
               אז <choice>
@@ -638,12 +617,8 @@
                 <orig> אמענש</orig>
                 <reg> אַ מענטש</reg>
               </choice> דארף תמיד זיין <foreign>קטונתי</foreign> ווארען וואס זענען מיר זינדיגע
-              מענשען מישטענס געזאגט פראסטע בשר ודגימניקעס<note>Parody, ‘I am Solomon’ instead of ‘I
-                am Joseph’ (cf. Gen. 45:4)</note>. היינט זענען מיר דא, מארגען זענען מיר דארט. אזוי
-              וויא דיא הייליגע תחינה שרייבט <foreign> מים חיים ואחור בקבר </foreign><note> A word
-                play on the original Hebrew phrase "[one is] here today and tomorrow in the grave"
-                (BT Berachot 33a). The corrupt saying is humorous as it means "Living water and the
-                buttocks is in the grave" </note>. </p>
+              מענשען מישטענס געזאגט פראסטע בשר ודגימניקעס. היינט זענען מיר דא, מארגען זענען מיר דארט. אזוי
+              וויא דיא הייליגע תחינה שרייבט <foreign> מים חיים ואחור בקבר </foreign>. </p>
           </sp>
           <sp who="#Amalia" xml:id="DybbukA_SP0056_a">
             <speaker>אמאליע</speaker>
@@ -858,8 +833,7 @@
               </choice> אז עס איז פאסקידנע פאר מיר, בין איך באלד געלאפען צים <choice>
                 <sic>צדק</sic>
                 <corr> צדיק</corr>
-              </choice> און האב איהם יאגבע<note>יאַקבעיאַקבע –Supposedly; so to speak;
-                seemingly.</note> געפֿרעגט צי בין איך אזוי פיעל זוכה ער זאל זיין מיין איידים,סע
+              </choice> און האב איהם יאגבע געפֿרעגט צי בין איך אזוי פיעל זוכה ער זאל זיין מיין איידים,סע
               הייסט ער זאל מיט דיר <choice>
                 <corr> חתונה</corr>
                 <sic>תתינה</sic>
@@ -905,12 +879,7 @@
                 <orig> אשטיק</orig>
                 <reg> אַ שטיק</reg>
               </choice> פין זיין עולם הבא אין אז משיח וועט קימען וועסטי זיין דיא ערשטע וואס דיא
-              וועסט פארזיכען פין דעם לויתן <note>To taste the Leviathan: Leviathan, in Jewish
-                mythology, is a primordial sea serpent. In the bible, Leviathan appears in Psalms
-                74:14 as a multiheaded sea creature that is killed by God and given as food to the
-                Hebrews in the wilderness. In Isaiah 27:1, Leviathan is a serpent and a symbol of
-                Israel’s enemies, who will be slain by God. In Job 41, it is a sea monster and a
-                symbol of God’s power of creation.</note>אין מיר אללע וועלען זוכה זיין צי ליעגען אין
+              וועסט פארזיכען פין דעם לויתן אין מיר אללע וועלען זוכה זיין צי ליעגען אין
               דער מערת המכפלה. </p>
           </sp>
           <sp who="#Amalia" xml:id="DybbukA_SP0078_a">
@@ -998,12 +967,7 @@
           <sp who="#Bobe" xml:id="DybbukA_SP0089_a">
             <speaker>באבע</speaker>
             <p>
-              <stage>(ציטטערענד)</stage> שמע ישראל! <note>Opening words of the verse from PS. 90:17:
-                “May the favor of the Lord our God rest on us; establish the work of our hands for
-                us—yes, establish the work of our hands.” This is said as a prayer on various
-                occasions, e.g., Sabbath end. Here it is used as an interjection, apparently meaning
-                ‘God forbid!’.</note>ויהי נועם! <note>Cf. Ps. 90:17 "And let the beauty of the Lord
-                our God be upon us". Used here as a request for God's protection.</note>געוואלד
+              <stage>(ציטטערענד)</stage> שמע ישראל! ויהי נועם! געוואלד
               יודישע קינדער <choice>
                 <orig> סיז</orig>
                 <reg> ס'איז</reg>
@@ -1070,10 +1034,7 @@
           </sp>
 
           <stage type="entrance">פאליק </stage>
-          <stage>(פערשטעלט מיט קיווער, בארד עפיעלעטען<note>Epaulette is a type of ornamental
-              shoulder piece or decoration used as insignia of rank by armed forces and other
-              organizations. Flexible metal epaulettes (usually made from brass) are referred to as
-              shoulder scales.</note> פין פאפיר)</stage>
+          <stage>(פערשטעלט מיט קיווער, בארד עפיעלעטען פין פאפיר)</stage>
           <sp who="#Falik" xml:id="DybbukA_SP0093_a">
             <speaker>פאליק</speaker>
             <p> א גיטען פורים מיינע ליעבע לייט..... </p>
@@ -1333,8 +1294,7 @@
             <speaker>אמאליע</speaker>
             <p>
               <stage>(לעזט) </stage>טהייערע אמאליא! איך האבע דיר מיטצוטהיילען זעהר וויכטיגעס, דאהער
-              זא באלד דיא ווירסט נור מיין בריעף ערהאלטען, זאלסטי זאפארט<note>German. Sofort -
-                immediately.</note> קאממען... נון ווא איזט דאס איבריגע? <stage>(ערבליקט דיא עפאלעטען
+              זא באלד דיא ווירסט נור מיין בריעף ערהאלטען, זאלסטי זאפארט קאממען... נון ווא איזט דאס איבריגע? <stage>(ערבליקט דיא עפאלעטען
                 רייסט עס הערונטער לעזט)</stage> קאממען צי דער פיסטער מויער. איך ווערדע דיך ערווארטען
                 <pb facs="0024.jpg"/>
               <fw>20</fw> דיין דיך ליעבענדער לעאן. </p>
@@ -1381,8 +1341,7 @@
               זיא נאך <choice>
                 <orig>אמאהל</orig>
                 <reg>א מאל</reg>
-              </choice> פרעגען (אה אה פאליק האט שוין שכל אין קיטשמעלע<note>קוטשמע - A type of a
-                fur-cap. Here used metonymously for נאגעל Fashion.</note>.<choice>
+              </choice> פרעגען (אה אה פאליק האט שוין שכל אין קיטשמעלע.<choice>
                 <corr> כ'לעבן</corr>
                 <sic>חלייבען</sic>
               </choice> זאל איך זיין דיא כפרה פאר המן הצדיקס <choice>
@@ -1397,10 +1356,7 @@
               </choice>
               <pb facs="0025.jpg"/>
               <fw>21</fw> מיט שכל, וויא זאגט מען עס איין אקס האט ניט קיין צינג אין פאליק האט ניט
-              קיין הערנער<note>Joke, corrupted proverb. The original proverb might be related to one
-                of these German proverbs: An Ochs hot a lange Züng ün känn kein Schojpher (Posaune)
-                nit blusen. Der Ochs bohrt die Wunde mit den Hörnern, das Weib mit der Zunge. Man
-                bindet die Ochsen bei den Hörnern und die Menschen bei der Zunge".</note>. פון
+              קיין הערנער. פון
               דעסטוועגען שטויסט ער זיך אָן מעהר פין אלע אקסען פין <choice>
                 <orig> אגאנץ</orig>
                 <reg> אַ גאַנץ</reg>
@@ -1630,8 +1586,7 @@
           <sp who="#Bobe" xml:id="DybbukA_SP0170_a">
             <speaker>באבע</speaker>
             <p> אוי קינד מיינס מיר דארפֿען גומל בענשען, אזוי וויא איך בין אריין געקיממען מיטין קרבן
-              מנחה סידיר <note>A prayerbook with Yiddish translation, used often by women.
-                https://www.nli.org.il/he/books/NNL_ALEPH003958469/NLI"</note>איך זאל דיר
+              מנחה סידיר איך זאל דיר
                 אפשפרעכען, איז פין דיר דער דיבוק ארויס
               אין האט געוואלט אין מיר אריין. </p>
           </sp>
@@ -2363,8 +2318,7 @@
                 <corr> עלית</corr>
                 <sic>עליות</sic>
               </choice> נשמה</p>
-            <note>Religious term. His should ascended for a while to heaven, during his
-              lifetime.</note>
+            
           </sp>
           <sp who="#Rebbe" xml:id="DybbukA_SP0254_a">
             <speaker>רבי</speaker>
@@ -2472,8 +2426,7 @@
                     <sic>עבדי</sic>
                     <corr>עבֿודה</corr>
                   </choice>
-                </sic><corr> עבודה</corr><note>Religious service, usually pronounced [uvde], here
-                  [ivde].</note></l>
+                </sic><corr> עבודה</corr></l>
               <l>איז דאך טאקע זעהר פיין</l>
               <l>זעה איך נעהם מיך אן דיין קריוודע</l>
               
@@ -2491,8 +2444,7 @@
               <l> פון דעם פאלשען <choice>
                   <corr> שבתי</corr>
                   <sic>שבת</sic>
-                </choice>צבי<note>Sabbatai Zevi (1626–1676), name of a famous false Messiah. See:
-                  https://www.jewishvirtuallibrary.org/shabbetai-zvi </note></l>
+                </choice>צבי</l>
             </lg>
           </sp>
           <sp who="#Choir" xml:id="DybbukA_SP0269_a">
@@ -2659,8 +2611,7 @@
           </sp>
           <sp who="#Rebbe" xml:id="DybbukA_SP0291_a">
             <speaker>רבי</speaker>
-            <p> והשנית זאל ער זיך גאר פורש זיין פין דער וועלט <note>To be ascetic and/or
-                abstinent.</note></p>
+            <p> והשנית זאל ער זיך גאר פורש זיין פין דער וועלט </p>
           </sp>
           <sp who="#Yokel" xml:id="DybbukA_SP0292_a">
             <speaker>יאקעל</speaker>
@@ -2930,8 +2881,7 @@
                 <corr> אַפּיקורס</corr>
               </choice> . </p>
           </sp>
-          <note>This could be interpreted as a new scene as in version c but is merged in version
-            a.</note>
+          
           <stage>יאקעל</stage>
 
           <sp who="#Yokel" xml:id="DybbukA_SP0328_a">
@@ -3446,8 +3396,7 @@
 
           <sp who="#Young-women" xml:id="DybbukA_SP0381b_a">
             <speaker>מעדכען</speaker>
-            <l>וויר דאנקען דיר<stage>} ביז</stage><note> "bis" refers to both Amalias welcome
-                greeting and the guests' answer "וויר דאנקען דיר", that should be repeated.</note>
+            <l>וויר דאנקען דיר<stage>} ביז</stage>
               פריינדין טהייערע</l>
             <l> זייא אונז געגריסט אצינד זייא <hi>געגריסט</hi> ליעבעס קינד </l>
           </sp>

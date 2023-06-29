@@ -898,8 +898,8 @@
 
           <sp who="#Bobe" xml:id="DybbukA_SP0145_a">
             <speaker>באבע</speaker>
-            <p> ו<span>יהי רצון אין עס זאל זיין דער וויללען אין זכות פין אברהם</span>
-              <span>יצחק ויעקב משה ואהרן דוד שלמה</span>. </p>
+            <p> ויהי רצון אין עס זאל זיין דער וויללען אין זכות פין אברהם
+              יצחק ויעקב משה ואהרן דוד שלמה. </p>
           </sp>
           <sp who="#Falik" xml:id="DybbukA_SP0146_a">
             <speaker>פאליק</speaker>
@@ -924,7 +924,7 @@
           <sp who="#Bobe" xml:id="DybbukA_SP0151_a">
             <speaker>באבע</speaker>
             <p>
-              <span>וכל תקלה, וכל קטטה</span>. </p>
+              וכל תקלה, וכל קטטה. </p>
           </sp>
           <sp who="#Falik" xml:id="DybbukA_SP0152_a">
             <speaker>פאליק</speaker>
@@ -933,7 +933,7 @@
           <sp who="#Bobe" xml:id="DybbukA_SP0153_a">
             <speaker>באבע</speaker>
             <p>
-              <span>ונאמר אמן! עס זאל דיר זיין צי </span> מיין טהייער אייניקעל טפא טפא טפא! </p>
+              ונאמר אמן! עס זאל דיר זיין צי  מיין טהייער אייניקעל טפא טפא טפא! </p>
           </sp>
           <sp who="#Falik" xml:id="DybbukA_SP0154_a">
             <speaker>פאליק</speaker>
@@ -951,8 +951,8 @@
             <speaker>באבע</speaker>
             <p>
               <stage>(ערבליקט איהם ערשרעקט)</stage>
-              <span>געוואלד שמע ישׂראל גיטער! </span>
-              <span>ויהי נועם!</span>
+              געוואלד שמע ישׂראל גיטער! 
+              ויהי נועם!
             </p>
           </sp>
           <sp who="#Falik" xml:id="DybbukA_SP0158_a">
@@ -989,8 +989,8 @@
           <sp who="#Bobe" xml:id="DybbukA_SP0164_a">
             <speaker>באבע</speaker>
             <p>
-              <stage>(אימער וועגגעדרעהט)</stage> אוועג דיא נישט גיטער <span>שמע ישראל ויהי
-                נועם</span>
+              <stage>(אימער וועגגעדרעהט)</stage> אוועג דיא נישט גיטער שמע ישראל ויהי
+                נועם
             </p>
           </sp>
           <sp who="#Amalia" xml:id="DybbukA_SP0165_a">

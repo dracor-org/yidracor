@@ -191,7 +191,7 @@
       </castList>
       <div type="act">
         <head>ДІЯ ПЕРША</head>
-        <div type="scene">
+        <div xml:id="DybbukA_Act1_Scene1" type="scene" n="1">
           <head>1</head>
           <stage>Запалила Ганна у печі. Стала, схилилась на комин, сумує:</stage>
           <stage type="music">N1</stage>

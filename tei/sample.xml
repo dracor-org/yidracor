@@ -158,6 +158,7 @@
             <persName>Дикий голос</persName>
           </person>
           <personGrp xml:id="Hasidim" sex="MALE"/>
+          <person xml:id="Schneiderl-yingle" sex="MALE"/>
         </listPerson>
       </particDesc>
     </profileDesc>
@@ -4183,6 +4184,10 @@
           <sp who="#smyk">
             <speaker>Смик.</speaker>
             <p>Три хури!.. Дев'яносто сім пудів... іще дадуть, на оранку, бо дивись, вже весна...</p>
+          </sp>
+          <sp who="#Schneiderl-yingle" xml:id="DybbukA_SP0011_a">
+            <speaker>ש. יונגעל</speaker>
+            <p> פאליק! פאליק! ווארט אויס. </p>
           </sp>
         </div>
         <div type="scene">

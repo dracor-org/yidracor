@@ -85,12 +85,12 @@
           <head>ערשטער אקט</head>
 
           <stage type="location">(שטראססע)</stage>
-          <lb/>
+          
           <stage>(מען הערט זינגען פון ווייטען) </stage>
-          <lb/>
+          
           <stage type="music">N1</stage>
           <sp who="#Hasidim" xml:id="DybbukA_SP0001_a">
-            <speaker><supplied>חסידים</supplied></speaker>
+            <speaker>חסידים</speaker>
             <lg>
               <l> לאמיר שנעלל פין דאנען ציהען </l>
               <l>דא קענען מיר ניט אנריהען </l>
@@ -106,7 +106,7 @@
               <l>.בעווייזען וועט ער זיינע ווינדער. </l>
             </lg>
           </sp>
-          <lb/>
+          
           <stage type="entrance">2 יודען</stage>
           <sp who="#First-Jew" xml:id="DybbukA_SP0002_a">
             <speaker>1 יוד</speaker>
@@ -182,7 +182,7 @@
           </sp>
           <sp who="#Schneiderl-yingle" xml:id="DybbukA_SP0017_a">
             <speaker>ש. יונגעל</speaker>
-            <p> היינטיגס יאהר וועללען מיר נאך מעהר פֿערדיענען וואָר<supplied>ען</supplied> פאר
+            <p> היינטיגס יאהר וועללען מיר נאך מעהר פֿערדיענען וואָרען פאר
               יאהרען האבען מיר ניט געהאט אזא לאנגען קיווער מיט אזוינע רויטע הויזען אין </p>
           </sp>
 
@@ -308,7 +308,7 @@
             <p> גאר וואס סע וועט זיך היינט טהין בייא דער פיסטער מויער, קינד אין קייט וועט היינט זיין
               דארט צי זעהן דיא מופתים. </p>
           </sp>
-          <lb/>
+          
           <stage type="music">N2</stage>
 
 
@@ -350,7 +350,7 @@
           <stage>(מיט איין בוך ביים טיש)</stage>
 
           <sp who="#Amalia" xml:id="DybbukA_SP0042_a">
-            <speaker><supplied>אמאליא</supplied></speaker>
+            <speaker>אמאליא</speaker>
             <p>
               <foreign xml:lang="fr"> אווע ווא לע שאַפא?</foreign>
               <foreign xml:lang="de">האבען זיא דען הוט.</foreign>
@@ -1114,7 +1114,7 @@
           <stage type="entrance">אמאליע</stage>
           <stage type="location">(זאקוליסען)</stage>
           <sp who="#Amalia" xml:id="DybbukA_SP0187_a">
-            <speaker><supplied>אמאליע</supplied></speaker>
+            <speaker>אמאליע</speaker>
             <lg>
               <l> שטיל איז אין טונקעל - אין איעדען ווינקעל</l>
               <l> קיין מענש געהט דא ניט מעהר נאר איך אלליין</l>
@@ -1213,7 +1213,7 @@
           <stage type="entrance">פאליק</stage>
           <sp who="#Falik" xml:id="DybbukA_SP0202_a">
             <speaker>פאליק</speaker>
-            <p> ! הערט אייך אויף צו קישען. סע געהן אזוי פיעל יוד<supplied>ן</supplied> מיט יודעניס
+            <p> ! הערט אייך אויף צו קישען. סע געהן אזוי פיעל יודן מיט יודעניס
               מיט הבדלות אין מיט פאהנען פינקט ווי אום תשעה באב </p>
           </sp>
           <sp who="#Amalia" xml:id="DybbukA_SP0203_a">
@@ -1378,7 +1378,7 @@
             <speaker>יאקעל</speaker>
             <p> איך האב דיר אבער געזאגט זאלסט דיך ניט שפיעלען מיטען רבין </p>
           </sp>
-          <lb/>
+          
           <stage type="music">N4</stage>
           <sp who="#Rebbe" xml:id="DybbukA_SP0240_a">
             <speaker>רבי</speaker>
@@ -1432,7 +1432,7 @@
           </sp>
           <sp who="#Falik" xml:id="DybbukA_SP0241_a">
             <speaker>פאליק</speaker>
-            <p> , קימט וועט איהר הערען וויא דיא יודען זינגען אזוי שע<supplied>הן</supplied>
+            <p> , קימט וועט איהר הערען וויא דיא יודען זינגען אזוי שעהן
             </p>
           </sp>
           <sp who="#First-Hasid" xml:id="DybbukA_SP0242_a">
@@ -1462,7 +1462,7 @@
             <p> איהר זאלט אייך גאר ניט שרעקען. יאקעל נעהם דיר מיין הייליגען שטעקען אין חאפ אללע
               דרייא ניט גיטע אין ברינג זייא צי מיר. איך וועל זייא שוין געבען א . </p>
           </sp>
-          <lb/>
+          
           <stage type="music">N 5</stage>
           <sp who="#Choir" xml:id="DybbukA_SP0248_a">
             <speaker>אללע</speaker>
@@ -1609,7 +1609,7 @@
             <p> לאסט איהם געהן נעביך אויף איהם . חאפט איהם <hi>דער שווארצער יאהר</hi>
             </p>
           </sp>
-          <lb/>
+          
           <stage type="music">N6</stage>
           <sp who="#Rebbe" xml:id="DybbukA_SP0267_a">
             <speaker>רבי</speaker>
@@ -2051,7 +2051,7 @@
             <speaker>אללע</speaker>
             <p> יאה לאמיר הערען </p>
           </sp>
-          <lb/>
+          
           <stage type="music">N7</stage>
           <sp who="#Yokel" xml:id="DybbukA_SP0353_a">
             <speaker>יאקעל</speaker>
@@ -2114,7 +2114,7 @@
 
 
           <sp who="#Yokel" xml:id="DybbukA_SP0356a_a">
-            <speaker><supplied>יאקל</supplied></speaker>
+            <speaker>יאקל</speaker>
             <l>דעם דריטען מופת הערט נור גיט</l>
             <l> דאס האב איך אליין געזעהן </l>
             <l>דיא גאנצע וועלט איז <unclear>אוף </unclear>דערמיט </l>
@@ -2420,7 +2420,7 @@
             <p> דער באבען. קוק אָן! מחנה מיט אין געהן אללע מיט לאנגע צעפ. דיבוקים וואס איהר זענט.
               נשים צדקניות קימט לאמיר זייא אללע אבשעהרען — </p>
           </sp>
-          <lb/>
+          
           <stage type="music">N10</stage>
           <sp who="#Young-women" xml:id="DybbukA_SP0397_a">
             <speaker>מעדכען</speaker>
@@ -2459,7 +2459,7 @@
             <l> וויא איז דיא טהיר</l>
           </sp>
           <sp xml:id="DybbukA_SP0403a_a" who="#Grandmothers">
-            <speaker><supplied>באבע</supplied></speaker>
+            <speaker>באבע</speaker>
             <l> אבשעהרען פריהר</l>
             <stage> (ביס אין גאנצען)</stage>
           </sp>
@@ -2590,7 +2590,7 @@
               זיינעם ער זאל מיך פיהרען אין גן עדן אריין איך זאל מיר אונקיקען מיין שטהיל - אוי עפיס
               פיהל איך מיינע כוחות געהן מיר אויס באפאלט מיך, אוי מיר נישט גיט, אוי איך שטארב (פאלט
               אוף דעם בעט) שוין געשטארבין! <stage>
-                <hi> שמש</hi></stage><lb/>
+                <hi> שמש</hi></stage>
               <stage type="music">N12</stage>
             </p>
           </sp>
@@ -2755,7 +2755,7 @@
           <stage>(זאקוליסען)</stage>
           <stage>N13</stage>
           <sp who="#Angel" xml:id="DybbukA_SP0446_a">
-            <speaker><supplied>מלאך</supplied></speaker>
+            <speaker>מלאך</speaker>
             <l> יאה דיין געבעט האב איך דערהערט אצינד </l>
             <l>יאה העלפען וועל איך דיר שוין געשווינד </l>
             <l>יאה געשווינד </l>
@@ -3306,7 +3306,7 @@
             <speaker>אללע</speaker>
             <p> אווא אווא! </p>
           </sp>
-          <lb/>
+          
           <stage type="music">N16</stage>
           <sp who="#Rebbe" xml:id="DybbukA_SP0546_a">
             <speaker>רבי</speaker>
@@ -3368,7 +3368,7 @@
             <l> אצינד ער מיט גאטט אליין </l>
           </sp>
           <sp who="#Rebbe" xml:id="DybbukA_SP0559a_a">
-            <speaker><supplied>רבי</supplied></speaker>
+            <speaker>רבי</speaker>
             <l>טוביאמבו... </l>
           </sp>
           <sp who="#Choir" xml:id="DybbukA_SP0560_a">
@@ -3388,7 +3388,7 @@
             <speaker>יאקעל</speaker>
             <p> נא טענצעל. </p>
           </sp>
-          <lb/>
+          
           <stage type="music">N17</stage>
 
           <sp who="#Yokel" xml:id="DybbukA_SP0564_a">
@@ -3701,7 +3701,7 @@
             <speaker>לעאפאלד</speaker>
             <p>לאסט אריין יעדען פראנק אונד פרייא. </p>
           </sp>
-          <lb/>
+          
           <stage>
             <hi>געלע</hi>
             <hi>חענצע</hi>
@@ -3772,7 +3772,7 @@
             <speaker>אללע</speaker>
             <p> כלב! שווינדלער בעטריגער... </p>
           </sp>
-          <lb/>
+          
           <stage type="music">N18</stage>
           <sp who="#Choir" xml:id="DybbukA_SP0635_a">
             <speaker>אללע</speaker>
@@ -4072,8 +4072,8 @@
             <l> הורייא עס לעבע דאס נויע פאָר!!!</l>
           </sp>
           <sp xml:id="DybbukA_SP0700a">
-            <lb/>
-            <lb/>
+            
+            
             <stage>פֿארהאנג</stage>
           </sp>
         </div>

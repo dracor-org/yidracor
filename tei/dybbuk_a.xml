@@ -44,7 +44,7 @@
           <person xml:id="Balagole" sex="MALE"/>
           <person xml:id="Angel" sex="UNKNOWN"/>
           <person xml:id="Young-woman" sex="FEMALE"/>
-          <person xml:id="Geheynom-shamesh" sex="UNKNOWN"/>
+          <person xml:id="Geheynom-shames" sex="UNKNOWN"/>
           <person xml:id="Gelle" sex="FEMALE"/>
           <person xml:id="Chanzie" sex="FEMALE"/>
           <personGrp xml:id="Choir" sex="UNKNOWN"/>
@@ -211,7 +211,7 @@
             <speaker>ש. יונגעל</speaker>
             <p> היינטיגס יאהר וועללען מיר נאך מעהר פֿערדיענען וואָר<supplied>ען</supplied> פאר
               יאהרען האבען מיר ניט געהאט אזא לאנגען <pb facs="0007.jpg"/>
-              <fw>3</fw> קיווער <note>Helmet (military).</note>מיט אזוינע רויטע הויזען אין <choice>
+              <fw>3</fw> קיווער מיט אזוינע רויטע הויזען אין <choice>
                 <orig> ארויט</orig>
                 <reg/>
               </choice>
@@ -221,7 +221,7 @@
               </choice>
             </p>
           </sp>
-          <note>Short jacket; men’s undergarment; bodice.</note>
+          
 
           <sp who="#Falik" xml:id="DybbukA_SP0018_a">
             <speaker>פאליק</speaker>
@@ -604,7 +604,7 @@
                 <corr> גדלתּי</corr>
                 <sic>גדולטי.</sic>
               </choice>
-              <note>Hebrew phrase, roughly meaning ‘I am big’.</note>
+              
               <choice>
                 <orig> אמענש</orig>
                 <reg> אַ מענטש</reg>
@@ -614,7 +614,7 @@
                 <corr> קטונתּי</corr>
                 <sic>קטינטי</sic>
               </choice>
-              <note>Hebrew phrase, roughly meaning ‘I am humble’.</note> אזוי וויא דיא הייליגע <choice>
+               אזוי וויא דיא הייליגע <choice>
                 <sic>צענה ורענה</sic>
                 <corr> צאינה-וראינה</corr>
               </choice>
@@ -625,7 +625,7 @@
                 <corr> מאין באת</corr>
                 <sic>מעאין בָתאָ</sic>
               </choice>
-              <note>Hebrew: where did you come from.</note> ,ווער ביזטו? האט זיך דוד המלך אונגערופען
+               ,ווער ביזטו? האט זיך דוד המלך אונגערופען
               מיט גדולקייט <foreign xml:lang="he"> אני שלמה </foreign><note>Parody, ‘I am Solomon’
                 instead of ‘I am Joseph’ (cf. Gen. 45:4)</note> אין דערפאר ווייל ער האט געזאגט מיט
               גדולקייט האט איהם דער אשמדי אויסגעשפיגען אויף 400 מאַהל דיא ווייט אין ער האט ניט זוכה
@@ -681,7 +681,7 @@
               איין <choice>
                 <corr>סודין</corr>
                 <sic>סודן</sic>
-              </choice> מיט זיין ליעבען נאָמען<note>Reference to God.</note> אין האסט דאך מן הסתם
+              </choice> מיט זיין ליעבען נאָמען אין האסט דאך מן הסתם
               געהערט אז דער רבי האט צי שאפֿפֿען איבער אללע <choice>
                 <corr> מלאכים</corr>
                 <sic>מאלכים</sic>
@@ -717,7 +717,7 @@
                 <orig> שלאגזשע</orig>
                 <reg> שלאָג זשע</reg>
               </choice> מיר נישט איבער מיין קינד לאז מיך אויסריידען <hi>x</hi> אין דיא האסט דאך מן
-              הסתם געהערט אז דיא נשים צדקניות<note>Righteous women.</note> האבען אין היממעל אזא
+              הסתם געהערט אז דיא נשים צדקניות האבען אין היממעל אזא
               גרויסע <choice>
                 <corr> זכיה</corr>
                 <sic>זכויה</sic>
@@ -947,7 +947,7 @@
                 <corr> ס'טײַטש</corr>
                 <sic>שטאטש</sic>
               </choice>
-              <note>סטײַטש?! – how come?!</note> דיא ווייסט גאר ניט צי דער רבי וועט האבען עולם הבא?
+               דיא ווייסט גאר ניט צי דער רבי וועט האבען עולם הבא?
               ס׳איז גאר <choice>
                 <orig> אקלייניקייט</orig>
                 <reg> אַ קלייניקייט</reg>
@@ -1346,7 +1346,7 @@
           <sp who="#Amalia" xml:id="DybbukA_SP0136_a">
             <speaker>אמאליע</speaker>
             <p>
-              <stage>(אפארט)</stage><note>A dramatic 'aside'.</note> גאטט ווייסט וואס עס וועט פאן
+              <stage>(אפארט)</stage> גאטט ווייסט וואס עס וועט פאן
               אונז ווערען <stage>(הויך)</stage> געה זאג איהם ער זאל מיך ערווארטען בייא דער פיסטער
               מויער איך קים באלד נאך. </p>
           </sp>
@@ -1444,7 +1444,7 @@
             <l>3 ווייבער שטעהן</l>
             <l> אויף איין שטיין, איינע זאגט יאה, דיא אנדערע זאגט ניין,</l>
             <l> דיא דריטע זאגט פין וואנען סיז געקימען אהין זאל עס געהן</l>
-            <note>three last lines are a magic spell (כישוף)</note>
+            
 
           </sp>
           <sp who="#Falik" xml:id="DybbukA_SP0144_a">
@@ -1593,7 +1593,7 @@
           <sp who="#Amalia" xml:id="DybbukA_SP0163_a">
 
             <speaker>אמאליע</speaker>
-            <p> געה שוין דיא פֿעריקטער<note>crazy</note>
+            <p> געה שוין דיא פֿעריקטער
               <stage>(ווארפט איהם ארויס)</stage> באבעניא וואס איז דיר, וואס שרייסטו? </p>
           </sp>
           <sp who="#Bobe" xml:id="DybbukA_SP0164_a">
@@ -1632,7 +1632,7 @@
             <p> אוי קינד מיינס מיר דארפֿען גומל בענשען, אזוי וויא איך בין אריין געקיממען מיטין קרבן
               מנחה סידיר <note>A prayerbook with Yiddish translation, used often by women.
                 https://www.nli.org.il/he/books/NNL_ALEPH003958469/NLI"</note>איך זאל דיר
-                אפשפרעכען<note>Exorcise, ward off (evil eye).</note>, איז פין דיר דער דיבוק ארויס
+                אפשפרעכען, איז פין דיר דער דיבוק ארויס
               אין האט געוואלט אין מיר אריין. </p>
           </sp>
           <sp who="#Amalia" xml:id="DybbukA_SP0171_a">
@@ -2442,7 +2442,7 @@
                 <orig>אמזיק</orig>
                 <reg>א מזיק</reg>
               </choice></p>
-            <note>devil, demon; scamp; ace, whiz.</note>
+            
           </sp>
           <sp who="#Leon" xml:id="DybbukA_SP0265_a">
             <speaker>לעאן</speaker>
@@ -2459,7 +2459,7 @@
               </choice> נעביך אויף איהם <choice>
                 <orig>ארחמנות</orig>
                 <reg>א רחמנות</reg>
-              </choice>. חאפט איהם <hi>דער שווארצער יאהר</hi><note>Idiom: the devil.</note>
+              </choice>. חאפט איהם <hi>דער שווארצער יאהר</hi>
             </p>
           </sp>
           <lb/>
@@ -2476,7 +2476,7 @@
                   [ivde].</note></l>
               <l>איז דאך טאקע זעהר פיין</l>
               <l>זעה איך נעהם מיך אן דיין קריוודע</l>
-              <note>Idiom: I am loyal to you.</note>
+              
               <l> אין דיא אפי<hi>קורסים</hi> זיך נוקם זיין </l>
             </lg>
           </sp>
@@ -2603,7 +2603,7 @@
           <sp who="#Yokel" xml:id="DybbukA_SP0282_a">
             <speaker>יאקעל</speaker>
             <p> דער רבי האט זיך געהאלטען איון עצה מיט איהר אליין. מיט וועהמען מיט איהר? דאס הייסט
-              מיט דער שכינה<note>The noun shekinah שכינה refers to God's presence.</note>
+              מיט דער שכינה
             </p>
           </sp>
           <sp who="#Falik" xml:id="DybbukA_SP0283_a">
@@ -2649,7 +2649,7 @@
           </sp>
           <sp who="#Rebbe" xml:id="DybbukA_SP0289_a">
             <speaker>רבי</speaker>
-            <p> נור בזה התנאי <note>With this condition.</note>ראשית זאל ער זיך לאזען וואקסען דיא
+            <p> נור בזה התנאי ראשית זאל ער זיך לאזען וואקסען דיא
               בארד מיט דיא פאות חאטש עד חצי אמה. </p>
           </sp>
           <sp who="#Yokel" xml:id="DybbukA_SP0290_a">
@@ -2952,7 +2952,7 @@
           </sp>
           <sp who="#Leon" xml:id="DybbukA_SP0331_a">
             <speaker>לעאן</speaker>
-            <p> לאסט אונז פרייא ווילדע טהירע<note>Animals, חיות</note> וואס איהר זענט. </p>
+            <p> לאסט אונז פרייא ווילדע טהירע וואס איהר זענט. </p>
           </sp>
           <sp who="#Yokel" xml:id="DybbukA_SP0332_a">
             <speaker>יאקעל</speaker>
@@ -3464,7 +3464,7 @@
             <speaker>מעדכען</speaker>
             <l>קרענק דיך ניט </l>
             <stage>} ביז</stage>
-            <note>Here too both Amalia's apology and the answer are repeated</note>
+            
           </sp>
           <sp who="#Amalia" xml:id="DybbukA_SP0383_a">
             <speaker>אמאליע</speaker>
@@ -3655,7 +3655,7 @@
             <speaker>מעדכען</speaker>
             <l> פרים צי ניט פרים וואס געהט אייך אן?</l>
             <stage>}ביז</stage>
-            <note>repetition starting from the "נא וואס זאגט איהר צי דעם שיגעון" to here</note>
+            
           </sp>
           <sp who="#Grandmothers" xml:id="DybbukA_SP0400_a">
             <speaker>באבעס</speaker>
@@ -6020,7 +6020,6 @@
             <lb/>
             <stage>פֿארהאנג</stage>
           </sp>
-
         </div>
       </div>
     </body>

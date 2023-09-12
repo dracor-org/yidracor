@@ -44,18 +44,18 @@
           <person xml:id="Balagole" sex="MALE"/>
           <person xml:id="Angel" sex="UNKNOWN"/>
           <person xml:id="Young-woman" sex="FEMALE"/>
-          <person xml:id="Geheynom-shamesh" sex="UNKNOWN"/>
+          <person xml:id="Geheynom-shames" sex="MALE"/>
           <person xml:id="Gelle" sex="FEMALE"/>
           <person xml:id="Chanzie" sex="FEMALE"/>
           <personGrp xml:id="Choir" sex="UNKNOWN"/>
-          <personGrp xml:id="Evil-angels" sex="UNKNOWN"/>
+          <personGrp xml:id="Evil-angels" sex="MALE"/>
           <personGrp xml:id="Hasidim" sex="MALE"/>
           <personGrp xml:id="Women" sex="FEMALE"/>
           <personGrp xml:id="Young-women" sex="FEMALE"/>
-          <personGrp xml:id="Ghosts" sex="UNKNOWN"/>
-          <personGrp xml:id="Students" sex="UNKNOWN"/>
+          <personGrp xml:id="Ghosts" sex="MALE"/>
           <personGrp xml:id="Friends" sex="FEMALE"/>
           <personGrp xml:id="Farmers" sex="MALE"/>
+          <personGrp xml:id="Grandmothers" sex="FEMALE"/>
           <personGrp xml:id="WomenFarmers" sex="FEMALE"/>
 
         </listPerson>
@@ -5583,7 +5583,7 @@
                 <speaker>חענצע</speaker>
                 <p> לאזט מיך פריהר, הייליגער רבי שוין 8 יאהר </p>
               </sp>
-              <sp who="Women" xml:id="DybbukA_SP0625a_a">
+              <sp who="#Women" xml:id="DybbukA_SP0625a_a">
                 <speaker>ווייבער</speaker>
                 <p> לאזט מיך, לאזט מיך. </p>
               </sp>
@@ -6056,7 +6056,7 @@
                 <hi>לעאפאלד</hi>
                 <hi>באבע</hi>
               </stage>
-              <sp who="#Women-farmers" xml:id="DybbukA_SP0683_a">
+              <sp who="#WomenFarmers" xml:id="DybbukA_SP0683_a">
                 <speaker>בויערינען</speaker>
                 <l>דיא שעהנע בלוממען נאך פריש אין גרינן </l>
                 <l>עמפפאנג פין אונז יעצט איין געשאנק </l>
@@ -6068,7 +6068,7 @@
                 <l>וויוואט</l>
                 <l> וויוואט מיר ווינשען..... </l>
               </sp>
-              <sp who="#Woman-farmer" xml:id="DybbukA_SP0684_a">
+              <sp who="#Farmers" xml:id="DybbukA_SP0684_a">
                 <speaker>בויערן</speaker>
                 <l>דאס פלעשעל וויין אין דאס שעהנע ברויט </l>
                 <l>עמפאנג פאן אונז יעצט איין געשאנק </l>

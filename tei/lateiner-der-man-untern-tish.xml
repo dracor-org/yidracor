@@ -1,10 +1,24 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="yi000003" xml:lang="yid">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title type="main">דער מאַן אונטערן טיש</title>
+        <title type="main" xml:lang="eng">The Man under the Table</title>
         <title type="sub">א װאדעװיל אין אײן אקט</title>
-        <author> יאָזעף לאַטײנער</author>
+        <title type="sub" xml:lang="eng">A Vaudeville in 1 Act</title>
+        <author>
+          <persName>
+            <forename>יאָזעף</forename>
+            <surname>לאַטײנער</surname>
+          </persName>
+          <persName xml:lang="eng">
+            <forename>Joseph</forename>
+            <surname>Lateiner</surname>
+          </persName>
+          <idno type="wikidata">Q43771</idno>
+        </author>
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>
@@ -18,11 +32,17 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>ENTER SOURCE NAME HERE</name>
-          <idno type="URL">ENTER SOURCE URL HERE</idno>
+          <name>Polona</name>
+          <idno type="URL">https://polona.pl/item/der-man-unter-n-tish-vodevil-in-1-akt,NTU3MTky/1/#info:metadata</idno>
           <availability status="free">
             <p>In the public domain.</p>
           </availability>
+          <bibl type="originalSource">
+            <author>יאָזעף לאַטײנע</author>
+            <title>דער מאַן אונטערן טיש</title>
+            <publisher>יודישע טהעאַטער⸗בּיבּליאָטעק</publisher>
+            <date>1907</date>
+          </bibl>
         </bibl>
       </sourceDesc>
     </fileDesc>
@@ -58,18 +78,13 @@
   </teiHeader>
   <standOff>
     <listEvent>
-      <event type="print" when="2023">
-        <desc/>
-      </event>
-      <event type="premiere" when="2023">
-        <desc/>
-      </event>
-      <event type="written" when="2023">
+      <event type="print" when="1907">
         <desc/>
       </event>
     </listEvent>
     <listRelation>
-      <relation active="INSERT" name="wikidata" passive="INSERT"/>
+      <relation name="wikidata" active="https://dracor.org/entity/yi000003"
+        passive="http://www.wikidata.org/entity/Q122457531"/>
     </listRelation>
   </standOff>
   <text>

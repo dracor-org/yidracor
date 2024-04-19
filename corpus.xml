@@ -9,22 +9,23 @@
         <publisher>DraCor</publisher>
         <idno type="URI" xml:base="https://dracor.org/">yi</idno>
         <idno type="repo">https://github.com/dracor-org/yidracor</idno>
-        <!-- <availability>
-          <licence target="https://creativecommons.org/share-your-work/public-domain/cc0/">
-            CC0
+        <availability>
+          <licence target="https://creativecommons.org/share-your-work/public-domain/cc0/"> CC0
           </licence>
-        </availability> -->
+        </availability>
       </publicationStmt>
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-       <p>
-         Edited by Sinai Rusinek.
-       </p>
+        <p> Work on this corpus started at the <ref
+            target="https://www.ada.fu-berlin.de/en/kalender/HeDraCorWorkshop.html">DraCor
+            Onboarding Workshop for Hebrew and Yiddish</ref> in September 2023. For a corpus
+          description and full credits please see the <ref
+            target="https://github.com/dracor-org/gerdracor">README on GitHub</ref>. </p>
       </projectDesc>
     </encodingDesc>
     <revisionDesc>
-      <change when="2023-11-11" status="proposed"/>
+      <change when="2024-04-19" status="proposed"/>
     </revisionDesc>
   </teiHeader>
 </teiCorpus>

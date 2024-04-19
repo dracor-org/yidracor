@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="yi000003" xml:lang="yid">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="yi000001" xml:lang="yid">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -78,7 +78,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/yi000003"
+      <relation name="wikidata" active="https://dracor.org/entity/yi000001"
         passive="http://www.wikidata.org/entity/Q122457531"/>
     </listRelation>
   </standOff>

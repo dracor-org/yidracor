@@ -7,11 +7,11 @@
         <title type="main">דעֶר מאַן אונטעֶרן טיִש</title>
         <title type="main" xml:lang="eng">The Man under the Table</title>
         <title type="sub">א װאדעֶװיִל איִן אײן אקט</title>
-        <title type="sub" xml:lang="eng">A Vaudeville in 1 Act</title>
+        <title type="sub" xml:lang="eng">A Vaudeville in One Act</title>
         <author>
           <persName>
-            <forename>יִאָזעֶף</forename>
-            <surname>לאַטײנעֶר</surname>
+            <forename>יאזעף</forename>
+            <surname>לאטײנער</surname>
           </persName>
           <persName xml:lang="eng">
             <forename>Joseph</forename>
@@ -33,16 +33,15 @@
       <sourceDesc>
         <bibl type="digitalSource">
           <name>Polona</name>
-          <idno type="URL"
-            >https://polona.pl/item/der-man-unter-n-tish-vodevil-in-1-akt,NTU3MTky/1/#info:metadata</idno>
+          <idno type="URL">https://polona.pl/preview/20e93fe9-db3c-408d-aad8-6351108e0760</idno>
           <availability status="free">
             <p>In the public domain.</p>
           </availability>
           <bibl type="originalSource">
-            <author>יִאָזעֶף לאַטײנעֶר</author>
-            <title>דעֶר מאַן אונטעֶרן טיִש</title>
-            <publisher>יִודיִשעֶ טהעֶאַטעֶר⸗בּיִבּליִאָטעֶק</publisher>
-            <date>1907</date>
+            <author>יאזעף לאטײנער</author>: <title>דעֶר מאַן אונטעֶרן טיִש. א װאדעֶװיִל איִן אײן
+              אקט</title>. <pubPlace>װארשׁא</pubPlace>: <publisher>יִודיִשעֶ
+              טהעֶאַטעֶר⸗בּיִבּליִאָטעֶק</publisher>
+            <date>1907</date>. (ז. <biblScope unit="page" from="1" to="16">1–16</biblScope>.)
           </bibl>
         </bibl>
       </sourceDesc>
@@ -50,14 +49,14 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="turniver" sex="MALE">
-            <persName>טורניִוועֶר</persName>
+          <person xml:id="sbele" sex="FEMALE">
+            <persName>סאָבּעֶלעֶ</persName>
           </person>
           <person xml:id="yakhtshe" sex="MALE">
             <persName>יאכטשע</persName>
           </person>
-          <person xml:id="sbele" sex="FEMALE">
-            <persName>סאָבּעֶלעֶ</persName>
+          <person xml:id="turniver" sex="MALE">
+            <persName>טורניִוועֶר</persName>
           </person>
           <person xml:id="krkver" sex="MALE">
             <persName>קראקעֶוועֶר</persName>
@@ -90,7 +89,7 @@
           <titlePart type="main">דעֶר מאן אוּנטעֶר'ן טיִש.</titlePart>
           <titlePart type="sub">װאָדעֶװיִל איִן 1 אַקט.</titlePart>
         </docTitle>
-        <docAuthor>פֿעֶרפֿאסט פֿוּן יִ. לאטײנעֶר.</docAuthor>
+        <docAuthor>פֿעֶרפֿאסט פֿוּן י. לאטײנעֶר.</docAuthor>
       </titlePage>
       <pb n="2"/>
       <castList>
@@ -216,7 +215,7 @@
         <speaker>סאבּעלע</speaker>
         <p>העֶרט איִך בּעֶט אײַך יִעֶנעֶר עֶסט שוׂין בּײַ מיִר אַזוׂי פֿיִעל יאָהר איִך בּיִן שוׂין
           אַזוׂי צוּ געֶוואוׂינט מיִט איִהם! זײַן זֶמֶר'ל, זײַן רבּיִן'ס שטיִקעֶלעֶ צוּ געֶהט דאָך
-          איִן יעֶדעֶן אֵבר, בּרעֶנגט עֶר מיִר גאָר אַ שלעֶפּעֶר </p>
+          איִן יעֶדעֶן אֵבר, בּרעֶנגט עֶר מיִר גאָר אַ שלעֶפּעֶר</p>
       </sp>
       <stage>(אין דער צײט שטעהט יאכֿטשע און שאָקעלט זיך. אוׂיפֿטריט טוּרניווער .קראָקעווער.
         יִאָכטֿשע שאַ, שאַ, מאַך ניט קײן רעש אָט געהן זײ).</stage>
@@ -505,10 +504,10 @@
         <speaker>טוּרניווער</speaker>
         <p>טײַעֶרעֶר ר' יאָכֿטשע, זיִסעֶר ר' יִאָכֿטשעֶ איִך פֿרעֶג אײַך <pb n="11"/> ניִשט מעֶהר
           פֿאַר וואָס זאָל דאָס אַזוׂי זײַן, גיִט אַ קוּק עֶס שטעֶהט שוׂין אַ האַלבּעֶ שטאָט
-          אונטעֶר'ן פֿעֶנסטעֶר אוּן דאָ איִז דאָך שבּת שטעֶהט דאָך בּפֿירוּש געֶשריִבּעֶן <foreign xml:lang="heb">בּא שבּת
-            <foreign xml:lang="heb">בּאָה מנוּחה</foreign></foreign> אוּן אַזוׂי וויִ הײַנט איִז שבּת לאָמיִר דעֶרווײַל אָבּעֶסעֶן אוּן מאָרגעֶן
-          גיִט מעֶן איִהר 12 שוּרוׂת אוּן אַ טאָפּ מיִט זאַלץ אוּן מיִט'ן קאָפּ איִן דעֶר עֶרד
-          אַרײַן.</p>
+          אונטעֶר'ן פֿעֶנסטעֶר אוּן דאָ איִז דאָך שבּת שטעֶהט דאָך בּפֿירוּש געֶשריִבּעֶן <foreign
+            xml:lang="heb">בּא שבּת <foreign xml:lang="heb">בּאָה מנוּחה</foreign></foreign> אוּן
+          אַזוׂי וויִ הײַנט איִז שבּת לאָמיִר דעֶרווײַל אָבּעֶסעֶן אוּן מאָרגעֶן גיִט מעֶן איִהר 12
+          שוּרוׂת אוּן אַ טאָפּ מיִט זאַלץ אוּן מיִט'ן קאָפּ איִן דעֶר עֶרד אַרײַן.</p>
       </sp>
       <sp who="#yakhtshe">
         <speaker>יאכטשע</speaker>
@@ -559,7 +558,8 @@
       </sp>
       <sp who="#turniver">
         <speaker>טוּרניווער</speaker>
-        <p>װײל <foreign xml:lang="heb">כּמה מאכלים אָכַלְתִּי</foreign>, נאָר אַ נעֶוואָרפֿעֶנעֶם קוגעֶל <foreign xml:lang="heb">לִא אכלתיִ</foreign></p>
+        <p>װײל <foreign xml:lang="heb">כּמה מאכלים אָכַלְתִּי</foreign>, נאָר אַ נעֶוואָרפֿעֶנעֶם
+          קוגעֶל <foreign xml:lang="heb">לִא אכלתיִ</foreign></p>
       </sp>
       <pb n="12"/>
       <sp who="#sbele">
@@ -663,10 +663,10 @@
       </sp>
       <sp who="#turniver">
         <speaker>טוּרניווער</speaker>
-        <p>שטעֶהט דאָך אָבּעֶר בּפיִרוּש געֶשריִבּעֶן <foreign xml:lang="heb">והוּא יִמשוׂל בּה</foreign>, אַז דעֶר מאַן זאָל
-          גיִוועֶלטיִגעֶן איִבּעֶר'ן ווײַבּ, דעֶריִבּעֶר איִז דאָס אַזוׂי, איִהר זאָלט אַרײַן
-          רוּפֿעֶן אײַעֶר ווײַבּ אוּן איִהר זאָגעֶן אַז איִהר וויִלט אַז דעֶר קראָקעֶוועֶר זאָל
-          עֶסעֶן שבּת.</p>
+        <p>שטעֶהט דאָך אָבּעֶר בּפיִרוּש געֶשריִבּעֶן <foreign xml:lang="heb">והוּא יִמשוׂל
+            בּה</foreign>, אַז דעֶר מאַן זאָל גיִוועֶלטיִגעֶן איִבּעֶר'ן ווײַבּ, דעֶריִבּעֶר איִז
+          דאָס אַזוׂי, איִהר זאָלט אַרײַן רוּפֿעֶן אײַעֶר ווײַבּ אוּן איִהר זאָגעֶן אַז איִהר וויִלט
+          אַז דעֶר קראָקעֶוועֶר זאָל עֶסעֶן שבּת.</p>
       </sp>
       <pb n="14"/>
       <sp who="#yakhtshe">
@@ -758,7 +758,7 @@
       </sp>
       <sp who="#turniver">
         <speaker>טוּרניווער</speaker>
-        <stage>(צו סאבּעלען) </stage>
+        <stage>(צו סאבּעלען)</stage>
         <p>אַ פּיאָנטעֶק.</p>
       </sp>
       <sp who="#yakhtshe">
@@ -776,7 +776,8 @@
       <sp who="#sbele">
         <speaker>סאבּעלע</speaker>
         <p>דוּרך אײַעֶר משוּגעת דוּרך אײַעֶר אַרוּם לוׂיפֿעֶניִש איִז דיִ זופּ פֿעֶרקיִלט
-          געֶוואָרעֶן, זאָגט דעֶרווײַל <foreign xml:lang="tmr">אַתקינו סעוּדתא</foreign> וועט מעֶן געֶהן עֶסעֶן.</p>
+          געֶוואָרעֶן, זאָגט דעֶרווײַל <foreign xml:lang="tmr">אַתקינו סעוּדתא</foreign> וועט מעֶן
+          געֶהן עֶסעֶן.</p>
       </sp>
       <sp who="#yakhtshe">
         <speaker>יאכטשע</speaker>

@@ -52,56 +52,38 @@
   <profileDesc>
    <particDesc>
     <listPerson>
-     <person sex="MALE" xml:id="khzn">
-      <persName>חזן</persName>
+     <person sex="UNKNOWN" xml:id="khr">
+      <persName>קאהר</persName>
+     </person>
+     <person sex="MALE" xml:id="rze">
+      <persName>ראזע</persName>
+     </person>
+     <person sex="MALE" xml:id="fishl">
+      <persName>פישׁל</persName>
      </person>
      <person sex="MALE" xml:id="bermn">
       <persName>בערמאן</persName>
      </person>
-     <person sex="FEMALE" xml:id="dbrh">
-      <persName>דבורה</persName>
-     </person>
      <person sex="MALE" xml:id="lteril">
       <persName>אלטעריל</persName>
-     </person>
-     <person sex="FEMALE" xml:id="rz">
-      <persName>ראזא</persName>
-     </person>
-     <person sex="MALE" xml:id="ydle">
-      <persName>יודאלע</persName>
-     </person>
-     <person sex="MALE" xml:id="beyde">
-      <persName>ביידע</persName>
-     </person>
-     <person sex="MALE" xml:id="le">
-      <persName>אלע</persName>
-     </person>
-     <person sex="UNKNOWN" xml:id="khr">
-      <persName>קאהר</persName>
-     </person>
-     <person sex="MALE" xml:id="freydle">
-      <persName>פריידאלע</persName>
-     </person>
-     <person sex="MALE" xml:id="freydede">
-      <persName>פריידעדע</persName>
-     </person>
-     <person sex="FEMALE" xml:id="ikhne">
-      <persName>יאכנע</persName>
-     </person>
-     <person sex="MALE" xml:id="irkhm">
-      <persName>ירוחם</persName>
-     </person>
-     <person sex="MALE" xml:id="vldmn">
-      <persName>וואלדמאן</persName>
-     </person>
-     <person sex="MALE" xml:id="edelmn">
-      <persName>עדעלמאן</persName>
      </person>
      <person sex="MALE" xml:id="freydele">
       <persName>פריידעלע</persName>
      </person>
-     <person sex="MALE" xml:id="fishl">
-      <persName>פישׁל</persName>
+     <person sex="MALE" xml:id="vldmn">
+      <persName>וואלדמאן</persName>
+     </person>
+     <person sex="FEMALE" xml:id="dbrh">
+      <persName>דבורה</persName>
+     </person>
+     <person sex="MALE" xml:id="freydede">
+      <persName>פריידעדע</persName>
+     </person>
+     <person sex="MALE" xml:id="freydle">
+      <persName>פריידאלע</persName>
+     </person>
+     <person sex="MALE" xml:id="khzn">
+      <persName>חזן</persName>
      </person>
      <person sex="MALE" xml:id="freyde">
       <persName>פריידע</persName>
@@ -109,11 +91,29 @@
      <person sex="MALE" xml:id="isr">
       <persName>איסר</persName>
      </person>
-     <person sex="MALE" xml:id="rze">
-      <persName>ראזע</persName>
+     <person sex="MALE" xml:id="beyde">
+      <persName>ביידע</persName>
+     </person>
+     <person sex="MALE" xml:id="edelmn">
+      <persName>עדעלמאן</persName>
+     </person>
+     <person sex="FEMALE" xml:id="ikhne">
+      <persName>יאכנע</persName>
+     </person>
+     <person sex="MALE" xml:id="irkhm">
+      <persName>ירוחם</persName>
      </person>
      <person sex="MALE" xml:id="fishel">
       <persName>פישׁעל</persName>
+     </person>
+     <person sex="MALE" xml:id="ydle">
+      <persName>יודאלע</persName>
+     </person>
+     <person sex="MALE" xml:id="le">
+      <persName>אלע</persName>
+     </person>
+     <person sex="FEMALE" xml:id="rz">
+      <persName>ראזא</persName>
      </person>
     </listPerson>
    </particDesc>
@@ -1985,9 +1985,9 @@
     </div>
     <div type="scene">
      <head>פֶערוואַנדלונג.</head>
-          (פרעכטיגער זאַאַל),
-          (קאָהר, אַלטֶעריל, פֿריידע, ירוחם, יאכנע, דבורה‘לע דערנאָך איסר, אלע אויסגעפוצט, שפעטער יודאַלע מיט אַ אויגען בינדע, פראָפֿעסאָר עדעלמאָן, וואלדמאן, ראָזאַ).
-          <sp who="#freydele">
+     <stage>פרעכטיגער זאַאַל</stage>
+     <stage>קאָהר, אַלטֶעריל, פֿריידע, ירוחם, יאכנע, דבורה‘לע דערנאָך איסר, אלע אויסגעפוצט, שפעטער יודאַלע מיט אַ אויגען בינדע, פראָפֿעסאָר עדעלמאָן, וואלדמאן, ראָזאַ</stage>
+     <sp who="#freydele">
       <speaker>פריידעלע</speaker>
       <l>אַךְ וִוי אוּנְגֶעדוּלְדִיג אִיךְ וַוארְט אוֹיף אִיהם דָא</l>
       <l>אִיךְ זָאל שׁוֹין דֶערְלֶעבֶּען דִי שָׁעָה.</l>

@@ -52,68 +52,68 @@
   <profileDesc>
    <particDesc>
     <listPerson>
-     <person sex="MALE" xml:id="irkhm">
-      <persName>ירוחם</persName>
-     </person>
-     <person sex="MALE" xml:id="rze">
-      <persName>ראזע</persName>
-     </person>
-     <person sex="MALE" xml:id="fishl">
-      <persName>פישׁל</persName>
-     </person>
-     <person sex="MALE" xml:id="freydede">
-      <persName>פריידעדע</persName>
-     </person>
-     <person sex="MALE" xml:id="freydele">
-      <persName>פריידעלע</persName>
-     </person>
-     <person sex="FEMALE" xml:id="ikhne">
-      <persName>יאכנע</persName>
-     </person>
-     <person sex="MALE" xml:id="lteril">
-      <persName>אלטעריל</persName>
-     </person>
-     <person sex="FEMALE" xml:id="dbrh">
-      <persName>דבורה</persName>
-     </person>
-     <person sex="UNKNOWN" xml:id="khr">
-      <persName>קאהר</persName>
+     <person sex="MALE" xml:id="khzn">
+      <persName>חזן</persName>
      </person>
      <person sex="MALE" xml:id="bermn">
       <persName>בערמאן</persName>
      </person>
-     <person sex="MALE" xml:id="khzn">
-      <persName>חזן</persName>
+     <person sex="FEMALE" xml:id="dbrh">
+      <persName>דבורה</persName>
      </person>
-     <person sex="MALE" xml:id="fishel">
-      <persName>פישׁעל</persName>
-     </person>
-     <person sex="MALE" xml:id="ydle">
-      <persName>יודאלע</persName>
-     </person>
-     <person sex="MALE" xml:id="freyde">
-      <persName>פריידע</persName>
-     </person>
-     <person sex="MALE" xml:id="beyde">
-      <persName>ביידע</persName>
-     </person>
-     <person sex="MALE" xml:id="edelmn">
-      <persName>עדעלמאן</persName>
-     </person>
-     <person sex="MALE" xml:id="freydle">
-      <persName>פריידאלע</persName>
-     </person>
-     <person sex="MALE" xml:id="vldmn">
-      <persName>וואלדמאן</persName>
-     </person>
-     <person sex="MALE" xml:id="le">
-      <persName>אלע</persName>
+     <person sex="MALE" xml:id="lteril">
+      <persName>אלטעריל</persName>
      </person>
      <person sex="FEMALE" xml:id="rz">
       <persName>ראזא</persName>
      </person>
+     <person sex="MALE" xml:id="ydle">
+      <persName>יודאלע</persName>
+     </person>
+     <person sex="MALE" xml:id="beyde">
+      <persName>ביידע</persName>
+     </person>
+     <person sex="MALE" xml:id="le">
+      <persName>אלע</persName>
+     </person>
+     <person sex="UNKNOWN" xml:id="khr">
+      <persName>קאהר</persName>
+     </person>
+     <person sex="MALE" xml:id="freydle">
+      <persName>פריידאלע</persName>
+     </person>
+     <person sex="MALE" xml:id="freydede">
+      <persName>פריידעדע</persName>
+     </person>
+     <person sex="FEMALE" xml:id="ikhne">
+      <persName>יאכנע</persName>
+     </person>
+     <person sex="MALE" xml:id="irkhm">
+      <persName>ירוחם</persName>
+     </person>
+     <person sex="MALE" xml:id="vldmn">
+      <persName>וואלדמאן</persName>
+     </person>
+     <person sex="MALE" xml:id="edelmn">
+      <persName>עדעלמאן</persName>
+     </person>
+     <person sex="MALE" xml:id="freydele">
+      <persName>פריידעלע</persName>
+     </person>
+     <person sex="MALE" xml:id="fishl">
+      <persName>פישׁל</persName>
+     </person>
+     <person sex="MALE" xml:id="freyde">
+      <persName>פריידע</persName>
+     </person>
      <person sex="MALE" xml:id="isr">
       <persName>איסר</persName>
+     </person>
+     <person sex="MALE" xml:id="rze">
+      <persName>ראזע</persName>
+     </person>
+     <person sex="MALE" xml:id="fishel">
+      <persName>פישׁעל</persName>
      </person>
     </listPerson>
    </particDesc>
@@ -342,7 +342,8 @@
     </sp>
     <sp who="#irkhm">
      <speaker>ירוחם</speaker>
-     <p>+!foreign.xml:lang=he!הַשֵׁם יִשְׁמְרֵנִי!+ וָואס דֶען נִישְׁט קֵיין יוּד זָאל עֶר זַײן?</p>
+     <p>
+      <foreign xml:lang="he">הַשֵׁם יִשְׁמְרֵנִי</foreign> וָואס דֶען נִישְׁט קֵיין יוּד זָאל עֶר זַײן?</p>
     </sp>
     <sp who="#isr">
      <speaker>איסר</speaker>
@@ -846,9 +847,11 @@
     </sp>
     <sp who="#beyde">
      <speaker>ביידע</speaker>
-     <p>+!foreign.xml:lang=he!אֶשָׂא עֵינַי אֶל הֶהָרִים!+, דִיא אוֹיגֶען הֶעבֶּען מִיר צוּ דִיר אַרוֹיף</p>
+     <p>
+      <foreign xml:lang="he">אֶשָׂא עֵינַי אֶל הֶהָרִים</foreign>, דִיא אוֹיגֶען הֶעבֶּען מִיר צוּ דִיר אַרוֹיף</p>
      <p>וֶוען וִוירְד צו מיינע לֵיידֶען וֶוערֶען אַ סוֹף.</p>
-     <p>+!foreign.xml:lang=he!מֵאַיִן יָבׂא עֶזְרִי!+ — מֵעִם ד‘ עוֹשֵה שָׁמַיִם וָאָרֶץ.</p>
+     <p>
+      <foreign xml:lang="he">מֵאַיִן יָבׂא עֶזְרִי</foreign> — מֵעִם ד‘ עוֹשֵה שָׁמַיִם וָאָרֶץ.</p>
     </sp>
     <sp who="#dbrh">
      <speaker>דבורה</speaker>
@@ -1382,7 +1385,9 @@
     <sp who="#irkhm">
      <speaker>ירוחם</speaker>
      <p>
-      <stage>חזניש זינגענד</stage> +!foreign.xml:lang=he!הָרַחֲמָן הוּא!+ יִשְׁלַח לָנוּ אֶת אֵלִיָהוּ הַנָבִיא זָכוּר לַטוֹב וִיבַשֵׂר לָנוּ בְּשׂוּרוֹת טוֹבוֹת יְשׁוּעוֹת וְנֶחָמות <stage>פישעל העלפט איהם אונטער מיט א באס</stage> +!foreign.xml:lang=he!הָרַחֲמָן הוּא!+ יְבָרֵךְ אֶת אִשְׁתִּי וְאֶת כָּל בְּנֵי בֵּיתִי.</p>
+      <stage>חזניש זינגענד</stage>
+      <foreign xml:lang="he">הָרַחֲמָן הוּא</foreign> יִשְׁלַח לָנוּ אֶת אֵלִיָהוּ הַנָבִיא זָכוּר לַטוֹב וִיבַשֵׂר לָנוּ בְּשׂוּרוֹת טוֹבוֹת יְשׁוּעוֹת וְנֶחָמות <stage>פישעל העלפט איהם אונטער מיט א באס</stage>
+      <foreign xml:lang="he">הָרַחֲמָן הוּא</foreign> יְבָרֵךְ אֶת אִשְׁתִּי וְאֶת כָּל בְּנֵי בֵּיתִי.</p>
     </sp>
     <sp who="#fishel">
      <speaker>פישׁל</speaker>
@@ -1416,11 +1421,13 @@
     </sp>
     <sp who="#irkhm">
      <speaker>ירוחם</speaker>
-     <p>+!foreign.xml:lang=he!עַל הַגוֹיִם!+!</p>
+     <p>
+      <foreign xml:lang="he">עַל הַגוֹיִם</foreign>!</p>
     </sp>
     <sp who="#le">
      <speaker>אלע</speaker>
-     <p>+!foreign.xml:lang=he!עַל הַגוֹיִם!+!</p>
+     <p>
+      <foreign xml:lang="he">עַל הַגוֹיִם</foreign>!</p>
      <p>
       <pb n="25"/>
      </p>
@@ -1447,7 +1454,7 @@
     </sp>
     <sp who="#fishel">
      <speaker>פישׁל</speaker>
-     <p>דֶער חַזָן פְרֶעגֶט דִיךְ +!foreign.xml:lang=he!מַה שְׁמֶךְ!+? +!foreign.xml:lang=he!מֵאַיִן בָּאתָ!+? ווָאס פַאר אַ רוּחַ הָאט זִיךְ אַהֶער גֶעבְּרַאכְט!</p>
+     <p>דֶער חַזָן פְרֶעגֶט דִיךְ <foreign xml:lang="he">מַה שְׁמֶךְ</foreign>? <foreign xml:lang="he">מֵאַיִן בָּאתָ</foreign>? ווָאס פַאר אַ רוּחַ הָאט זִיךְ אַהֶער גֶעבְּרַאכְט!</p>
     </sp>
     <sp who="#edelmn">
      <speaker>עדעלמאן</speaker>
@@ -1463,7 +1470,7 @@
     </sp>
     <sp who="#edelmn">
      <speaker>עדעלמאן</speaker>
-     <p>אִיךְ הָאבּ גֶעהָערְט פוּן דֶער פֶערְנֶע אַייעֶר +!foreign.xml:lang=he!הָרַחֲמָן הוּא!+ יִשְׁלַח לֶנוּ אֶת אֵלִיָהוּ הַנָבִיא וִיבַשֵׂר לָנוּ בְּשׂוּרוֹת טוֹבוֹת...</p>
+     <p>אִיךְ הָאבּ גֶעהָערְט פוּן דֶער פֶערְנֶע אַייעֶר <foreign xml:lang="he">הָרַחֲמָן הוּא</foreign> יִשְׁלַח לֶנוּ אֶת אֵלִיָהוּ הַנָבִיא וִיבַשֵׂר לָנוּ בְּשׂוּרוֹת טוֹבוֹת...</p>
     </sp>
     <sp who="#fishel">
      <speaker>פישׁל</speaker>
@@ -1524,7 +1531,8 @@
     </sp>
     <sp who="#irkhm">
      <speaker>ירוחם</speaker>
-     <p>+!foreign.xml:lang=he!מוֹרֶה מוֹרֵינוּּ הָרַב ר’אֶלְחָנָן כֹּהֵן צֶדֶק, זְכוּתוֹ יָגֵן עָלֵינוּּ!+! נָא נָא?</p>
+     <p>
+      <foreign xml:lang="he">מוֹרֶה מוֹרֵינוּּ הָרַב ר’אֶלְחָנָן כֹּהֵן צֶדֶק, זְכוּתוֹ יָגֵן עָלֵינוּּ</foreign>! נָא נָא?</p>
     </sp>
     <sp who="#edelmn">
      <speaker>עדעלמאן</speaker>
@@ -3266,14 +3274,18 @@
      <sp who="#khzn">
       <speaker>חזן</speaker>
       <p>
-       <stage>פאנגט אן</stage> +!foreign.xml:lang=he!בָּרוּךְ אַתָּה ד׳+!</p>
+       <stage>פאנגט אן</stage>
+       <foreign xml:lang="he">בָּרוּךְ אַתָּה ד׳</foreign>
+      </p>
       <p>
        <pb n="63"/>
       </p>
      </sp>
      <sp who="#khr">
       <speaker>קאהר</speaker>
-      <p>+!foreign.xml:lang=he!!בָּרוּךְ הוּא וּבָרוּךְ שְׁמוֹ.+</p>
+      <p>
+       <foreign xml:lang="he">!בָּרוּךְ הוּא וּבָרוּךְ שְׁמוֹ.</foreign>
+      </p>
      </sp>
      <sp who="#vldmn">
       <speaker>וואלדמאן</speaker>

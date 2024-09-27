@@ -34,8 +34,7 @@
       <sourceDesc>
         <bibl type="digitalSource">
           <name>Yiddish Book Center</name>
-          <idno type="URL"
-            >https://www.yiddishbookcenter.org/collections/yiddish-books/spb-nybc201710/rose-jane-engshaft-a-shpiel-in-eyn-akt</idno>
+          <idno type="URL">https://www.yiddishbookcenter.org/collections/yiddish-books/spb-nybc201710/rose-jane-engshaft-a-shpiel-in-eyn-akt</idno>
           <availability status="free">
             <p>In the public domain.</p>
           </availability>
@@ -132,7 +131,8 @@
       <sp who="#hellen">
         <speaker>העללען:</speaker>
         <p>נו, חכמה'ט זיך ניט, <foreign xml:lang="eng">פּליעז</foreign>, און גיט דאָרט אַ דריק דעם
-          מאָטאָן.</p>
+          <choice><sic>מאָטאָן</sic><corr cert="high"><foreign
+            xml:lang="eng">באָטאָן</foreign></corr></choice>.</p>
       </sp>
       <sp who="#leyman">
         <speaker>ליימאַן:</speaker>
@@ -860,9 +860,7 @@
       <sp who="#maks">
         <speaker>מאַקס:</speaker>
         <p>ווי אַזוי! ווי אַזזוי! ווען דו וואָלסט ווירקליך געוואָלט טהאָן, וואָלסטו שוין געוואוסט,
-          ווי אַזוי. גלייכסט ניט די הויז-אַרבייט?</p>
-        <pb n="26"/>
-        <p><foreign xml:lang="eng">אָלל-רייט</foreign>! — געפין עפּעס, וואָס דו גלייכסט יא, אָבער
+          ווי אַזוי. גלייכסט ניט די הויז-אַרבייט? <pb n="26"/><foreign xml:lang="eng">אָלל-רייט</foreign>! — געפין עפּעס, וואָס דו גלייכסט יא, אָבער
               <choice><sic>אים</sic><corr cert="high">אום</corr></choice> גאָטעס ווילען, טהו
           „עפּעס“, מען קען דאָך משוגע ווערען פון ליידיג אַרומגעהן.</p>
       </sp>
@@ -922,7 +920,7 @@
       </sp>
       <sp who="#leyman">
         <speaker>ליימאַן:</speaker>
-        <p>זיך ווײשענדוג דעם פּנים מיט'ן נאָז-טיכעל, קוקט אָן מאקס'ן מיט האַס און פעראכטונג.</p>
+        <stage>זיך ווײשענדוג דעם פּנים מיט'ן נאָז-טיכעל, קוקט אָן מאקס'ן מיט האַס און פעראכטונג.</stage>
         <p>אַזעלכע אידיאָטסקע שטיק פּרובירט מען אויף זיך אַליין, ווען עס פערגלוסט זיך אַ שפּיעל צו
           טהאָן מיט'ן טייפעל.</p>
         <pb n="28"/>
@@ -971,11 +969,12 @@
       <stage>ער שטופּט איהם צו צו א שטוהל און זעצט איהם אַוועק מיט <choice><sic>גע־</sic><corr
             cert="medium">געװאַלד</corr></choice>. דו וועסט אזוי גוט זיין, זיצען דאָ.</stage>
       <stage>זיך ווענדענדיג צו העללען, וועלכע איז די גאַנצע צייט געשטאַנען א בלאסע, זיך
-        אָנהאַלטענדיג אָן סייד-באָארד, אום ניט אומצופאלען. מיט אן אָנגעשטרענגטער גלייכגילטיגקייט. דו
+        אָנהאַלטענדיג אָן סייד-באָארד, אום ניט אומצופאלען. מיט אן אָנגעשטרענגטער גלייכגילטיגקייט.</stage>
+      <p>דו
         ביזט גערעכט, איך בין ניט איינער פון די בעסטע, און דערפאַר האָב איך עס ערוואַרטעט פון דעם
         ערשטען טאָג אָן זינט מיר האָבען אריינגענומען מיין אַלטען פריינד צו העלפען צאָהלען די הויכע
           <foreign xml:lang="eng">רענט</foreign> פאַר אַ מאָדערנעם <foreign xml:lang="eng"
-          >פלעט</foreign> אין אַ <foreign xml:lang="eng">סטיילישען נייבארהוד</foreign>...</stage>
+          >פלעט</foreign> אין אַ <foreign xml:lang="eng">סטיילישען נייבארהוד</foreign>...</p>
       <sp who="#leyman">
         <speaker>ליימאַן:</speaker>
 

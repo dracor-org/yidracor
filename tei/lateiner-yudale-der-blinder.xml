@@ -43,7 +43,7 @@
 <!-- not allowed     <pubPlace>tochange</pubPlace>-->
       <publisher>פֿערלאַג פֿוּן
               .אמקרויט עט פריינד, בוכהאנדלונג, פשעמישל</publisher>
-<!-- not allowed  <date>1908</date>. (ז. <biblScope unit="page" from="1" to="64">1–64</biblScope>.)-->
+      <date>1908</date>. (ז. <biblScope unit="page" from="1" to="64">1–64</biblScope>.)
      </bibl>
     </bibl>
    </sourceDesc>

@@ -101,7 +101,7 @@
      </person>
      <person sex="MALE" xml:id="isr">
       <persName>איסר</persName>
-     </person>
+      </person>
     </listPerson>
    </particDesc>
   </profileDesc>
@@ -227,7 +227,7 @@
      <p>אַ גוּט מָארְגֶען אַייךְ ר‘ יְרוחָם!</p>
      <p>
       <pb n="4"/>
-     </p>
+      </p>
     </sp>
     <sp who="#irkhm">
      <speaker>ירוחם</speaker>
@@ -2671,7 +2671,7 @@
       <p>וָואס גֶעהט זִי דִיךְ אָן?</p>
       <p>
        <pb n="51"/>
-      </p>
+       </p>
      </sp>
      <sp who="#lteril">
       <speaker>אלטעריל</speaker>
@@ -3120,11 +3120,11 @@
      <p>דַאנְקֶע!</p>
     </sp>
     <sp who="#fishl">
-     <speaker>פישׁל</speaker>
+      <speaker>פישׁל</speaker>
      <p>גֶעזוּנד אוּן שְׁטַארק זָאלְט אִיהר זַײן װִי אֵיין אֵייזֶען אִיהר זָאלְט אֵייךְ נִישְׁט קֶענֶען אַיינְבֵּייגֶען!</p>
      <p>
       <pb n="60"/>
-     </p>
+      </p>
     </sp>
     <sp who="#vldmn">
      <speaker>וואלדמאן</speaker>

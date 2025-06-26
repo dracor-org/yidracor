@@ -44,54 +44,82 @@
   <profileDesc>
    <particDesc>
     <listPerson>
-     <person sex="MALE" xml:id="isr">
-      <persName>איסר</persName>
+     <person sex="UNKNOWN" xml:id="#flora">
+      <persName>פֿלאָראַ</persName>
      </person>
-     <person sex="MALE" xml:id="bermn">
-      <persName>בערמאן</persName>
+     <person sex="UNKNOWN" xml:id="#tsveyte_bluzke">
+      <persName>צװײטע בלוזקע</persName>
      </person>
-     <person sex="MALE" xml:id="khzn">
-      <persName>חזן</persName>
+     <person sex="UNKNOWN" xml:id="#itele">
+      <persName>איטעלע</persName>
      </person>
-     <person sex="MALE" xml:id="vldmn">
-      <persName>וואלדמאן</persName>
+     <person sex="UNKNOWN" xml:id="#heym">
+      <persName>הײם</persName>
      </person>
-     <person sex="MALE" xml:id="lteril">
-      <persName>אלטעריל</persName>
+     <person sex="UNKNOWN" xml:id="#kheym">
+      <persName>חײם</persName>
      </person>
-     <person sex="MALE" xml:id="edelmn">
-      <persName>עדעלמאן</persName>
+     <person sex="UNKNOWN" xml:id="#tsveyter_khvr">
+      <persName>צװײטער חבֿר</persName>
      </person>
-     <person sex="UNKNOWN" xml:id="le">
-      <persName>אלע</persName>
+     <person sex="UNKNOWN" xml:id="#arontshik">
+      <persName>אַראָנטשיק</persName>
      </person>
-     <person sex="FEMALE" xml:id="dbrh">
-      <persName>דבורה</persName>
+     <person sex="UNKNOWN" xml:id="#davidke">
+      <persName>דאַװידקע</persName>
      </person>
-     <person sex="FEMALE" xml:id="ikhne">
-      <persName>יאכנע</persName>
+     <person sex="UNKNOWN" xml:id="#mir">
+      <persName>מאיר</persName>
      </person>
-     <person sex="MALE" xml:id="irkhm">
-      <persName>ירוחם</persName>
+     <person sex="UNKNOWN" xml:id="#ershter_khvr">
+      <persName>ערשטער חבֿר</persName>
      </person>
-     <person sex="UNKNOWN" xml:id="beyde">
-      <persName>ביידע</persName>
+     <person sex="UNKNOWN" xml:id="#zekster_khvr">
+      <persName>זעקסטער חבֿר</persName>
      </person>
-     <person sex="MALE" xml:id="fishl">
-      <persName>פישׁל</persName>
+     <person sex="UNKNOWN" xml:id="#mlkh">
+      <persName>מלכּה</persName>
      </person>
-     <person sex="FEMALE" xml:id="rz">
-      <persName>ראזא</persName>
+     <person sex="UNKNOWN" xml:id="#ferter_khvr">
+      <persName>פֿערטער חבֿר</persName>
      </person>
-     <person sex="FEMALE" xml:id="freydele">
-      <persName>פריידעלע</persName>
+     <person sex="UNKNOWN" xml:id="#driter_khvr">
+      <persName>דריטער חבֿר</persName>
      </person>
-     <person sex="UNKNOWN" xml:id="khr">
-      <persName>קאהר</persName>
+     <person sex="UNKNOWN" xml:id="#khnh">
+      <persName>חנה</persName>
      </person>
-     <person sex="MALE" xml:id="ydle">
-      <persName>יודאלע</persName>
+     <person sex="UNKNOWN" xml:id="#ale">
+      <persName>אַלע</persName>
      </person>
+     <person sex="UNKNOWN" xml:id="#pesl">
+      <persName>פּעסל</persName>
+     </person>
+     <person sex="UNKNOWN" xml:id="#benye">
+      <persName>בעניע</persName>
+     </person>
+     <person sex="UNKNOWN" xml:id="#mashe">
+      <persName>מאַשע</persName>
+     </person>
+     <person sex="UNKNOWN" xml:id="#valodye">
+      <persName>װאַלאָדיע</persName>
+     </person>
+     <person sex="UNKNOWN" xml:id="#finfter_khvr">
+      <persName>פֿינפֿטער חבֿר</persName>
+     </person>
+     <person sex="UNKNOWN" xml:id="#ershte_bluzke">
+      <persName>ערשטע בלוזקע</persName>
+     </person>
+     <person sex="UNKNOWN" xml:id="#matvey">
+      <persName>מאַטװײ</persName>
+     </person>
+     <person sex="UNKNOWN" xml:id="#zaydenshtamer">
+      <persName>זײַדענשטאַמער</persName>
+     </person>
+     <person sex="UNKNOWN" xml:id="#sashke">
+      <persName>סאַשקע</persName>
+     </person>
+
     </listPerson>
    </particDesc>
   </profileDesc>
@@ -164,8 +192,8 @@
     <castItem>
      <role>מאַשע</role>
      <roleDesc>אַ שטובמײדל בײַ די שאַלאַנטס.</roleDesc></castItem>
-    <castItem corresp="list"> בחורים מיט שװאַרצע העמדלעך, מײדלעך מיט רױטע בלוזקעס און גלאַט פּאַרשױנען. 
-     די געשיכטע קומט פֿאָר אין אַ גרױסער שטאָט.</castItem>
+    <castItem corresp="list"> בחורים מיט שװאַרצע העמדלעך, מײדלעך מיט רױטע בלוזקעס און גלאַט
+     פּאַרשױנען. די געשיכטע קומט פֿאָר אין אַ גרױסער שטאָט.</castItem>
    </castList>
   </front>
   <body>

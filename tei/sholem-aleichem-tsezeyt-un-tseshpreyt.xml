@@ -44,82 +44,81 @@
   <profileDesc>
    <particDesc>
     <listPerson>
-     <person sex="UNKNOWN" xml:id="#flora">
-      <persName>פֿלאָראַ</persName>
-     </person>
-     <person sex="UNKNOWN" xml:id="#tsveyte_bluzke">
-      <persName>צװײטע בלוזקע</persName>
-     </person>
-     <person sex="UNKNOWN" xml:id="#itele">
-      <persName>איטעלע</persName>
-     </person>
-     <person sex="UNKNOWN" xml:id="#heym">
-      <persName>הײם</persName>
-     </person>
-     <person sex="UNKNOWN" xml:id="#kheym">
-      <persName>חײם</persName>
-     </person>
-     <person sex="UNKNOWN" xml:id="#tsveyter_khvr">
-      <persName>צװײטער חבֿר</persName>
-     </person>
-     <person sex="UNKNOWN" xml:id="#arontshik">
-      <persName>אַראָנטשיק</persName>
-     </person>
-     <person sex="UNKNOWN" xml:id="#davidke">
-      <persName>דאַװידקע</persName>
-     </person>
-     <person sex="UNKNOWN" xml:id="#mir">
-      <persName>מאיר</persName>
-     </person>
-     <person sex="UNKNOWN" xml:id="#ershter_khvr">
-      <persName>ערשטער חבֿר</persName>
-     </person>
-     <person sex="UNKNOWN" xml:id="#zekster_khvr">
-      <persName>זעקסטער חבֿר</persName>
-     </person>
-     <person sex="UNKNOWN" xml:id="#mlkh">
-      <persName>מלכּה</persName>
-     </person>
-     <person sex="UNKNOWN" xml:id="#ferter_khvr">
-      <persName>פֿערטער חבֿר</persName>
-     </person>
-     <person sex="UNKNOWN" xml:id="#driter_khvr">
-      <persName>דריטער חבֿר</persName>
-     </person>
-     <person sex="UNKNOWN" xml:id="#khnh">
-      <persName>חנה</persName>
-     </person>
-     <person sex="UNKNOWN" xml:id="#ale">
-      <persName>אַלע</persName>
-     </person>
-     <person sex="UNKNOWN" xml:id="#pesl">
-      <persName>פּעסל</persName>
-     </person>
-     <person sex="UNKNOWN" xml:id="#benye">
-      <persName>בעניע</persName>
-     </person>
-     <person sex="UNKNOWN" xml:id="#mashe">
-      <persName>מאַשע</persName>
-     </person>
-     <person sex="UNKNOWN" xml:id="#valodye">
-      <persName>װאַלאָדיע</persName>
-     </person>
-     <person sex="UNKNOWN" xml:id="#finfter_khvr">
-      <persName>פֿינפֿטער חבֿר</persName>
-     </person>
-     <person sex="UNKNOWN" xml:id="#ershte_bluzke">
-      <persName>ערשטע בלוזקע</persName>
-     </person>
-     <person sex="UNKNOWN" xml:id="#matvey">
-      <persName>מאַטװײ</persName>
-     </person>
-     <person sex="UNKNOWN" xml:id="#zaydenshtamer">
-      <persName>זײַדענשטאַמער</persName>
-     </person>
-     <person sex="UNKNOWN" xml:id="#sashke">
+     <person sex="UNKNOWN" xml:id="sashke">
       <persName>סאַשקע</persName>
      </person>
-
+     <person sex="UNKNOWN" xml:id="driter_khvr">
+      <persName>דריטער חבֿר</persName>
+     </person>
+     <person sex="UNKNOWN" xml:id="flora">
+      <persName>פֿלאָראַ</persName>
+     </person>
+     <person sex="UNKNOWN" xml:id="pesl">
+      <persName>פּעסל</persName>
+     </person>
+     <person sex="UNKNOWN" xml:id="ershte_bluzke">
+      <persName>ערשטע בלוזקע</persName>
+     </person>
+     <person sex="UNKNOWN" xml:id="tsveyter_khvr">
+      <persName>צװײטער חבֿר</persName>
+     </person>
+     <person sex="UNKNOWN" xml:id="benye">
+      <persName>בעניע</persName>
+     </person>
+     <person sex="UNKNOWN" xml:id="mir">
+      <persName>מאיר</persName>
+     </person>
+     <person sex="UNKNOWN" xml:id="valodye">
+      <persName>װאַלאָדיע</persName>
+     </person>
+     <person sex="UNKNOWN" xml:id="ershter_khvr">
+      <persName>ערשטער חבֿר</persName>
+     </person>
+     <person sex="UNKNOWN" xml:id="arontshik">
+      <persName>אַראָנטשיק</persName>
+     </person>
+     <person sex="UNKNOWN" xml:id="khnh">
+      <persName>חנה</persName>
+     </person>
+     <person sex="UNKNOWN" xml:id="matvey">
+      <persName>מאַטװײ</persName>
+     </person>
+     <person sex="UNKNOWN" xml:id="davidke">
+      <persName>דאַװידקע</persName>
+     </person>
+     <person sex="UNKNOWN" xml:id="finfter_khvr">
+      <persName>פֿינפֿטער חבֿר</persName>
+     </person>
+     <person sex="UNKNOWN" xml:id="mlkh">
+      <persName>מלכּה</persName>
+     </person>
+     <person sex="UNKNOWN" xml:id="tsveyte_bluzke">
+      <persName>צװײטע בלוזקע</persName>
+     </person>
+     <person sex="UNKNOWN" xml:id="mashe">
+      <persName>מאַשע</persName>
+     </person>
+     <person sex="UNKNOWN" xml:id="zekster_khvr">
+      <persName>זעקסטער חבֿר</persName>
+     </person>
+     <person sex="UNKNOWN" xml:id="itele">
+      <persName>איטעלע</persName>
+     </person>
+     <person sex="UNKNOWN" xml:id="kheym">
+      <persName>חײם</persName>
+     </person>
+     <person sex="UNKNOWN" xml:id="heym">
+      <persName>הײם</persName>
+     </person>
+     <person sex="UNKNOWN" xml:id="zaydenshtamer">
+      <persName>זײַדענשטאַמער</persName>
+     </person>
+     <person sex="UNKNOWN" xml:id="ale">
+      <persName>אַלע</persName>
+     </person>
+     <person sex="UNKNOWN" xml:id="ferter_khvr">
+      <persName>פֿערטער חבֿר</persName>
+     </person>
     </listPerson>
    </particDesc>
   </profileDesc>

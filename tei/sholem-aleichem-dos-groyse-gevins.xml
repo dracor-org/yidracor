@@ -2,7 +2,7 @@
 <!--<?xml-stylesheet type="text/css" href="../css/tei.css"?>-->
 <?xml-stylesheet type="text/xsl" href="https://raw.githubusercontent.com/TEIC/Stylesheets/refs/heads/dev/docx/to/drama.xsl" ?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="yi000004" xml:lang="yid">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="yi000005" xml:lang="yid">
   <teiHeader>
     <fileDesc>
       <titleStmt>

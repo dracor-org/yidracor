@@ -34,86 +34,86 @@
           </availability>
           <bibl type="originalSource">
             <author>שלום עליכם</author>
-            <title>אַלע װערק פֿון שלום עליכם</title>
+            <title>אַלע װערק פֿון שלום עליכם, באַנד XIII</title>
             <!-- not allowed     <pubPlace>tochange</pubPlace>-->
-            <publisher>????</publisher>
-            <date>?</date>. (ז. <biblScope unit="page" from="1" to="64">1–64</biblScope>.) </bibl>
+            <publisher>IKUF</publisher>
+            <date>1952</date>. (ז. <biblScope unit="page" from="1" to="64">1–64</biblScope>.) </bibl>
         </bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person sex="UNKNOWN" xml:id="pesl">
+          <person sex="FEMALE" xml:id="pesl">
             <persName>פּעסל</persName>
           </person>
-          <person sex="UNKNOWN" xml:id="valodye">
+          <person sex="MALE" xml:id="valodye">
             <persName>װאַלאָדיע</persName>
           </person>
-          <person sex="UNKNOWN" xml:id="zaydenshtamer">
+          <person sex="MALE" xml:id="zaydenshtamer">
             <persName>זײַדענשטאַמער</persName>
           </person>
-          <person sex="UNKNOWN" xml:id="zekster_khvr">
+          <person sex="MALE" xml:id="zekster_khvr">
             <persName>זעקסטער חבֿר</persName>
           </person>
-          <person sex="UNKNOWN" xml:id="itele">
+          <person sex="FEMALE" xml:id="itele">
             <persName>איטעלע</persName>
           </person>
           <person sex="UNKNOWN" xml:id="ale">
             <persName>אַלע</persName>
           </person>
-          <person sex="UNKNOWN" xml:id="benye">
+          <person sex="MALE" xml:id="benye">
             <persName>בעניע</persName>
           </person>
-          <person sex="UNKNOWN" xml:id="mashe">
+          <person sex="FEMALE" xml:id="mashe">
             <persName>מאַשע</persName>
           </person>
-          <person sex="UNKNOWN" xml:id="finfter_khvr">
+          <person sex="MALE" xml:id="finfter_khvr">
             <persName>פֿינפֿטער חבֿר</persName>
           </person>
-          <person sex="UNKNOWN" xml:id="flora">
+          <person sex="FEMALE" xml:id="flora">
             <persName>פֿלאָראַ</persName>
           </person>
-          <person sex="UNKNOWN" xml:id="driter_khvr">
+          <person sex="MALE" xml:id="driter_khvr">
             <persName>דריטער חבֿר</persName>
           </person>
-          <person sex="UNKNOWN" xml:id="ershter_khvr">
+          <person sex="MALE" xml:id="ershter_khvr">
             <persName>ערשטער חבֿר</persName>
           </person>
-          <person sex="UNKNOWN" xml:id="mlkh">
+          <person sex="FEMALE" xml:id="mlkh">
             <persName>מלכּה</persName>
           </person>
-          <person sex="UNKNOWN" xml:id="ferter_khvr">
+          <person sex="MALE" xml:id="ferter_khvr">
             <persName>פֿערטער חבֿר</persName>
           </person>
-          <person sex="UNKNOWN" xml:id="tsveyter_khvr">
+          <person sex="MALE" xml:id="tsveyter_khvr">
             <persName>צװײטער חבֿר</persName>
           </person>
-          <person sex="UNKNOWN" xml:id="arontshik">
+          <person sex="MALE" xml:id="arontshik">
             <persName>אַראָנטשיק</persName>
           </person>
-          <person sex="UNKNOWN" xml:id="ershte_bluzke">
+          <person sex="GEMALE" xml:id="ershte_bluzke">
             <persName>ערשטע בלוזקע</persName>
           </person>
-          <person sex="UNKNOWN" xml:id="sashke">
+          <person sex="MALE" xml:id="sashke">
             <persName>סאַשקע</persName>
           </person>
-          <person sex="UNKNOWN" xml:id="davidke">
+          <person sex="MALE" xml:id="davidke">
             <persName>דאַװידקע</persName>
           </person>
-          <person sex="UNKNOWN" xml:id="kheym">
+          <person sex="MALE" xml:id="kheym">
             <persName>חײם</persName>
           </person>
-          <person sex="UNKNOWN" xml:id="tsveyte_bluzke">
+          <person sex="FEMALE" xml:id="tsveyte_bluzke">
             <persName>צװײטע בלוזקע</persName>
           </person>
-          <person sex="UNKNOWN" xml:id="mir">
+          <person sex="MALE" xml:id="mir">
             <persName>מאיר</persName>
           </person>
-          <person sex="UNKNOWN" xml:id="matvey">
+          <person sex="MALE" xml:id="matvey">
             <persName>מאַטװײ</persName>
           </person>
-          <person sex="UNKNOWN" xml:id="khnh">
+          <person sex="FEMALE" xml:id="khnh">
             <persName>חנה</persName>
           </person>
         </listPerson>
@@ -197,70 +197,6 @@
     <body>
       <div type="act">
         <head>צעזײט און צעשפּרײט: בילדער פֿונעם ייִדישן לעבן אין דרײַ אַקטן</head>
-        <stage>די פּאַרשױנען:</stage>
-        <sp who="#mir_shalant">
-          <speaker>מאיר שאַלאַנט</speaker>
-          <p>אַ ייִד אַ סוחר, אַן אױפֿגעקומענער גבֿיר, אַ פּראָסטער חי־וקים, שנײַדט זיך אױף אַן
-            אַריסטאָקראַט.</p>
-        </sp>
-        <sp who="#mlkh">
-          <speaker>מלכּה</speaker>
-          <p>זײַן װײַב, אַ ייִדענע אַן ערלעכע, אַ כּשרע נשמה.</p>
-        </sp>
-        <sp who="#matvey">
-          <speaker>מאַטװײ</speaker>
-          <p>זײער עלטערער זון, אַ „פֿראַנט“.</p>
-        </sp>
-        <sp who="#flora">
-          <speaker>פֿלאָראַ</speaker>
-          <p>זײער עלטערע טאָכטער, אַ גרושה, „פֿען־דע־סיעקל“.</p>
-        </sp>
-        <sp who="#khnh">
-          <speaker>חנה</speaker>
-          <p>זײער ייִנגערע טאָכטער. געשאָרענע האָר. רײַסט זיך אױף די קורסן.</p>
-        </sp>
-        <sp who="#kheym">
-          <speaker>חײם</speaker>
-          <p>זײער ייִנגערער זון, אַ ציוניסט.</p>
-        </sp>
-        <sp who="#valodye">
-          <speaker>װאַלאָדיע</speaker>
-          <p>זײער זון, אַ „סטאַטעטשנער“ בחור.</p>
-        </sp>
-        <sp who="#sashke">
-          <speaker>סאַשקע</speaker>
-          <p>זײער מיזיניקל, אַ צעבאַלעװעט בר־מיצװה־בחורל.</p>
-        </sp>
-        <sp who="#mshhle_zaydenshtamer">
-          <speaker>משהלע זײַדענשטאַמער</speaker>
-          <p>שאַלאַנטס מחותּן, אַן אָפּגעפּוצט ייִדל, אײַנגעטונקען אין ייִחוס.</p>
-        </sp>
-        <sp who="#itele">
-          <speaker>איטעלע</speaker>
-          <p>זײַן װײַב, טראָגט פּערל אין דער װאָכן.</p>
-        </sp>
-        <sp who="#arontshik">
-          <speaker>אַראָנטשיק</speaker>
-          <p>זײער דריטער זון, חנהס חתן, אַ „חבֿרה־מאַן“.</p>
-        </sp>
-        <sp who="#pesl">
-          <speaker>פּעסל</speaker>
-          <p>אַן אָרעמע קרובֿה מלכּהס, אַ װײַבל מיט אַ פֿאַטשײלע.</p>
-        </sp>
-        <sp who="#davidke">
-          <speaker>דאַװידקע</speaker>
-          <p>מאַטװײס אַ חבֿר, אַ קאָרטן־שפּילער.</p>
-        </sp>
-        <sp who="#benye">
-          <speaker>בעניע</speaker>
-          <p>אַ ייִד מיט אַ זאָנטיק, האַלב מעקלער, האַלב שדכן.</p>
-        </sp>
-        <sp who="#mashe">
-          <speaker>מאַשע</speaker>
-          <p>אַ שטובמײדל בײַ די שאַלאַנטס.</p>
-        </sp>
-        <stage>בחורים מיט שװאַרצע העמדלעך, מײדלעך מיט רױטע בלוזקעס און גלאַט פּאַרשױנען.</stage>
-        <stage>די געשיכטע קומט פֿאָר אין אַ גרױסער שטאָט.</stage>
         <stage>מיט אײניקע יאָר צוריק האָט זיך געדרוקט פֿון מיר אַ פֿעליעטאָן אין דער „ייִדישער
           פֿאָלקס־צײַטונג“ אונטער דעם נאָמען „צעזײט און צעשפּרײט, בילדער פֿונעם ייִדישן לעבן“. הגם די
           דאָזיקע בילדער זײַנען געשריבן אין אַ דראַמאַטישער פֿאָרעם, דאָך האָט זיך מיר אַפֿילו ניט

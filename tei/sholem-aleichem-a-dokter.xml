@@ -36,8 +36,8 @@
             <author>שלום עליכם</author>
             <title>אַלע װערק פֿון שלום עליכם</title>
             <!-- not allowed     <pubPlace>tochange</pubPlace>-->
-            <publisher>????</publisher>
-            <date>?</date>. (ז. <biblScope unit="page" from="1" to="64">1–64</biblScope>.) </bibl>
+            <publisher>IKUF</publisher>
+            <date>?</date>. (ז. <biblScope unit="page" from="69" to="79">69-79</biblScope>.) </bibl>
         </bibl>
       </sourceDesc>
     </fileDesc>
@@ -81,8 +81,8 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/yi000003"
-        passive="https://www.wikidata.org/entity/Q129084769"/>
+      <relation name="wikidata" active="https://dracor.org/entity/yi000006"
+        passive="https://www.wikidata.org/wiki/Q135918670"/>
     </listRelation>
   </standOff>
   <text>
@@ -388,7 +388,7 @@
         <sp who="#abramtshik">
           <speaker>אַבראַמטשיק</speaker>
           <p>װער זאָגט דען, אַז ער איז אַ „בהמה“? איך זאָג נאָר, אַז ער װײס ניט, װײַל ס'איז אַן
-            „אינאָסטראַנע“ װאָרט.</p>
+            „<foreign xml:lang="rus">אינאָסטראַנע</foreign>“ װאָרט.</p>
         </sp>
         <sp who="#rb_shlum-shdkhn">
           <speaker>רב שלום־שדכן</speaker>
@@ -397,8 +397,8 @@
         <sp who="#abramtshik">
           <speaker>אַבראַמטשיק</speaker>
           <p>
-            <stage>בײגט זיך צו צו רב שלום־שדכן.</stage> אינאָסטראַנע ― װײסט איר שױן? אינאָסטראַנאָיע
-            סלאָװאָ! </p>
+            <stage>בײגט זיך צו צו רב שלום־שדכן.</stage> אינאָסטראַנע ― װײסט איר שױן? <foreign xml:lang="rus">אינאָסטראַנאָיע
+            סלאָװאָ!</foreign> </p>
         </sp>
         <sp who="#rb_shlum-shdkhn">
           <speaker>רב שלום־שדכן</speaker>
@@ -500,7 +500,7 @@
         </sp>
         <sp who="#abramtshik">
           <speaker>אַבראַמטשיק</speaker>
-          <p>ניט דאָס און ניט יענץ און ניט גאָרנישט? טאָ װאָס דען איז ער? אַ קופּטשיק? אַ
+          <p>ניט דאָס און ניט יענץ און ניט גאָרנישט? טאָ װאָס דען איז ער? אַ <foreign xml:lang="rus">קופּטשיק</foreign>? אַ
             טונעיאַדעץ?</p>
         </sp>
         <sp who="#rb_shlum-shdkhn">
@@ -656,7 +656,7 @@
         <sp who="#vyerotshke">
           <speaker>װיעראָטשקע</speaker>
           <p>
-            <stage>צום שדכן.</stage> באָנזשור, מאָנסיע! </p>
+            <stage>צום שדכן.</stage> <foreign xml:lang="fra">באָנזשור, מאָנסיע</foreign>! </p>
         </sp>
         <sp who="#rb_shlum-shdkhn">
           <speaker>רב שלום־שדכן</speaker>
@@ -664,7 +664,7 @@
         </sp>
         <sp who="#vyerotshke">
           <speaker>װיעראָטשקע</speaker>
-          <p>כאַ־כאַ־כאַ! אָט אַ ניעװעזשדאַ! „באָנזשור מאָנסיע“ הײסט ― גוט מאָרגן אײַך, מײַן הער.</p>
+          <p>כאַ־כאַ־כאַ! אָט אַ <foreign xml:lang="rus">ניעװעזשדאַ</foreign>! „באָנזשור מאָנסיע“ הײסט ― גוט מאָרגן אײַך, מײַן הער.</p>
         </sp>
         <sp who="#rb_shlum-shdkhn">
           <speaker>רב שלום־שדכן</speaker>
@@ -696,7 +696,7 @@
         <sp who="#vyerotshke">
           <speaker>װיעראָטשקע</speaker>
           <p>
-            <stage>צו דער מוטער.</stage> אַ קאָמיטשעסקע פֿיגור! כאַ־כאַ־כאַ! פֿון װאַנען נעמען זיך
+            <stage>צו דער מוטער.</stage> אַ <foreign xml:lang="rus">קאָמיטשעסקע</foreign> פֿיגור! כאַ־כאַ־כאַ! פֿון װאַנען נעמען זיך
             אַזעלכע ניעװעזשדעס? װאָס טוט דאָ בײַ אײַך דער שדכן? </p>
         </sp>
         <sp who="#khnh-lh">
@@ -722,7 +722,7 @@
         </sp>
         <sp who="#khnh-lh">
           <speaker>חנה־לאה</speaker>
-          <p>ײ רײדן דיר אַ דאָקטער.</p>
+          <p>זײ רײדן דיר אַ דאָקטער.</p>
         </sp>
         <sp who="#kheym-leyb">
           <speaker>חײם־לײב</speaker>
@@ -775,7 +775,7 @@
         </sp>
         <sp who="#rb_shlum-shdkhn">
           <speaker>רב שלום־שדכן</speaker>
-          <p>ײן, דו האָסט אַ טעות, מײדל, איך בין אַ שדכן בין איך, ניט קײן נעכאַל; איז אױב דו װילסט,
+          <p>נײן, דו האָסט אַ טעות, מײדל, איך בין אַ שדכן בין איך, ניט קײן נעכאַל; איז אױב דו װילסט,
             קאָן איך דיר געבן אױף אױסצוקלײַבן קאָן איך דיר; רב שלום־שדכן האָט ברוך־השם גענוג. איך
             קאָן דיר געבן אַ סוחרישן דאָקטער, אָדער אַ דאָקטערשן סוחר. די ברירה איז בײַ דיר די
             ברירה.</p>

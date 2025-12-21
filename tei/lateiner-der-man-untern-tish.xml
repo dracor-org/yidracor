@@ -77,8 +77,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/yi000001"
-        passive="http://www.wikidata.org/entity/Q122457531"/>
+      <relation name="wikidata" active="https://dracor.org/entity/yi000001" passive="http://www.wikidata.org/entity/Q122457531"/>
     </listRelation>    
   </standOff>
   <text>
@@ -508,8 +507,7 @@
         <speaker>טוּרניווער</speaker>
         <p>טײַעֶרעֶר ר' יאָכֿטשע, זיִסעֶר ר' יאָכֿטשעֶ איִך פֿרעֶג אײַך <pb n="11"/> ניִשט מעֶהר
           פֿאַר וואָס זאָל דאָס אַזוׂי זײַן, גיִט אַ קוּק עֶס שטעֶהט שוׂין אַ האַלבּעֶ שטאָט
-          אונטעֶר'ן פֿעֶנסטעֶר אוּן דאָ איִז דאָך שבּת שטעֶהט דאָך בּפֿירוּש געֶשריִבּעֶן <foreign
-            xml:lang="heb">בּא שבּת <foreign xml:lang="heb">בּאָה מנוּחה</foreign></foreign> אוּן
+          אונטעֶר'ן פֿעֶנסטעֶר אוּן דאָ איִז דאָך שבּת שטעֶהט דאָך בּפֿירוּש געֶשריִבּעֶן <foreign xml:lang="heb">בּא שבּת <foreign xml:lang="heb">בּאָה מנוּחה</foreign></foreign> אוּן
           אַזוׂי וויִ הײַנט איִז שבּת לאָמיִר דעֶרווײַל אָבּעֶסעֶן אוּן מאָרגעֶן גיִט מעֶן איִהר 12
           שוּרוׂת אוּן אַ טאָפּ מיִט זאַלץ אוּן מיִט'ן קאָפּ איִן דעֶר עֶרד אַרײַן.</p>
       </sp>

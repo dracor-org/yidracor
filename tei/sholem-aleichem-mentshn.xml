@@ -27,8 +27,7 @@
       <sourceDesc>
         <bibl type="digitalSource">
           <name>אַלע װערק פֿון שלום עליכם</name>
-          <idno type="URL"
-            >https://www.cs.uky.edu/~raphael/yiddish/sholemAleykhem/contents.html</idno>
+          <idno type="URL">https://www.cs.uky.edu/~raphael/yiddish/sholemAleykhem/contents.html</idno>
           <availability status="free">
             <p>In the public domain.</p>
           </availability>
@@ -90,8 +89,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/yi000007"
-        passive="https://www.wikidata.org/wiki/Q135918670"/>
+      <relation name="wikidata" active="https://dracor.org/entity/yi000007" passive="https://www.wikidata.org/wiki/Q135918670"/>
     </listRelation>
   </standOff>
   <text>

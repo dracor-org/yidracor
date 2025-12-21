@@ -27,8 +27,7 @@
       <sourceDesc>
         <bibl type="digitalSource">
           <name>אַלע װערק פֿון שלום עליכם</name>
-          <idno type="URL"
-            >https://www.cs.uky.edu/~raphael/yiddish/sholemAleykhem/contents.html</idno>
+          <idno type="URL">https://www.cs.uky.edu/~raphael/yiddish/sholemAleykhem/contents.html</idno>
           <availability status="free">
             <p>In the public domain.</p>
           </availability>
@@ -133,8 +132,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/yi000003"
-        passive="https://www.wikidata.org/entity/Q129084769"/>
+      <relation name="wikidata" active="https://dracor.org/entity/yi000003" passive="https://www.wikidata.org/entity/Q129084769"/>
     </listRelation>
   </standOff>
   <text>
@@ -907,10 +905,8 @@
           <sp who="#zaydenshtamer">
             <speaker>זײַדענשטאַמער</speaker>
             <p>ברענגט ער, דער רמב″ם הײסט עס, ערגעץ אין אַן אָרט, אַז על־פּי „חכמת־הפּילוסופֿיע“ איז
-              לופֿט כּמעט אַזױ נײטיק, װי װאַסער. און װאַסער איז דאָך <foreign xml:lang="heb"
-                >מים</foreign>, פֿון די אַרבעה־יסודות, הײסט עס… <stage>צײלט אױף די פֿינגער.</stage>
-              <foreign xml:lang="heb">רוח</foreign>―לופֿט, מים―װאַסער, <foreign xml:lang="heb"
-                >אש</foreign>―פֿײַער, <foreign xml:lang="heb">עפֿר</foreign>―ערד… <stage>טוט אַ
+              לופֿט כּמעט אַזױ נײטיק, װי װאַסער. און װאַסער איז דאָך <foreign xml:lang="heb">מים</foreign>, פֿון די אַרבעה־יסודות, הײסט עס… <stage>צײלט אױף די פֿינגער.</stage>
+              <foreign xml:lang="heb">רוח</foreign>―לופֿט, מים―װאַסער, <foreign xml:lang="heb">אש</foreign>―פֿײַער, <foreign xml:lang="heb">עפֿר</foreign>―ערד… <stage>טוט אַ
                 ניס.</stage>
             </p>
           </sp>
@@ -950,8 +946,7 @@
             <speaker>זײַדענשטאַמער</speaker>
             <p>האָב קײן יסורים ניט, איך װײס װוּ איך האַלט… און יאָאָאָאָ!… איז מײַן זײדע, זכר צדיק
               לבֿרכה, איז געװען אַ ייִד אַ חכם און אַ גרױסער מיוחס, װי אײַך איז באַװוּסט, דעם אַלטן
-              רזשישטשעװער רענדאַרס אַן אײניקל. איר פֿאַרשטײט? פֿון אײן זײַט דער „<foreign
-                xml:lang="heb">בעל השור שנגה</foreign>“, פֿון דער אַנדערער זײַט דער רזשישטשעװער
+              רזשישטשעװער רענדאַרס אַן אײניקל. איר פֿאַרשטײט? פֿון אײן זײַט דער „<foreign xml:lang="heb">בעל השור שנגה</foreign>“, פֿון דער אַנדערער זײַט דער רזשישטשעװער
               רענדאַר, װאָס געהײסן האָט ער אַהרן און גערופֿן האָט מען אים „רב אַהרן“. דאָס איז ער
               טאַקע נאָך אים אַ נאָמען, דער חתן אײַערער, אַ שקאָץ אַ גרױסער! װעדליק דער נאָמען זײַנער,
               װאָלט ער געמעגט זײַן אַ קאַפּיטשקע פֿרומער, כע־כע, נאָר גאָרניט, מע קאָן מיט הײַנטיקע
@@ -2135,8 +2130,7 @@
               געװען גוט, מע זאָל פֿאַרדינען. פֿאַרדינט זיך אָבער ניט, איז שלעכט… גוט איז אײַך, אַז
               איר זיצט זיך, קײן עין־הרע, מיט אײַער אַלטיטשקע און מיט אײַערע קינדערלעך, קײן עין־הרע. װי
               שטײט דאָרטן געשריבן בײַ אונדז, האַ? <foreign xml:lang="heb">אשתּך</foreign> ― דײַן װײַב,
-                <foreign xml:lang="heb">כּגפֿן</foreign> ― װי אַ װײַנשטאָק, <foreign xml:lang="heb"
-                >פּוריה</foreign> ― װאָס זי פֿרוכפּערט זיך, <foreign xml:lang="heb">בנים</foreign> ―
+                <foreign xml:lang="heb">כּגפֿן</foreign> ― װי אַ װײַנשטאָק, <foreign xml:lang="heb">פּוריה</foreign> ― װאָס זי פֿרוכפּערט זיך, <foreign xml:lang="heb">בנים</foreign> ―
               די קינדער, <foreign xml:lang="heb">כשתילי זיתים</foreign> ― װי די אײלבירט־צװײַגן,
               סבֿיבֿ <foreign xml:lang="heb">לשולחנך</foreign> ― רינגלען אַרום דײַן טיש. <stage>קוקט
                 זיך אַרום.</stage> װוּ זײַנען זײ ערגעץ אײַערע דאָס… די קינדער מײן איך? </p>

@@ -27,8 +27,7 @@
       <sourceDesc>
         <bibl type="digitalSource">
           <name>אַלע װערק פֿון שלום עליכם</name>
-          <idno type="URL"
-            >https://www.cs.uky.edu/~raphael/yiddish/sholemAleykhem/contents.html</idno>
+          <idno type="URL">https://www.cs.uky.edu/~raphael/yiddish/sholemAleykhem/contents.html</idno>
           <availability status="free">
             <p>In the public domain.</p>
           </availability>
@@ -81,8 +80,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/yi000006"
-        passive="https://www.wikidata.org/wiki/Q135918670"/>
+      <relation name="wikidata" active="https://dracor.org/entity/yi000006" passive="https://www.wikidata.org/wiki/Q135918670"/>
     </listRelation>
   </standOff>
   <text>
@@ -206,8 +204,7 @@
             <stage>נעמט דאָס בריװל; טוט אָן אַ פּאָר זילבערנע ברילן אױף דער נאָז; זעצט זיך אַנידער
               און הײבט אָן צו לײענען הױך, אױף אַ קול. חנה־לאה זעצט זיך לעבן אים, און רב שלום־שדכן
               שטײט און שאָקלט צו מיטן קאָפּ נאָך יעדן װאָרט און מאַכט מיט די ליפּן; עס קומט אים צו
-              אַ שטיק געזונט.</stage> „לכּבֿוד ידידי היקר הנכבד והמופֿלג הנגיד והקצין איש ח<foreign
-              xml:lang="heb">סיד וירא־שמים כש″ת מוהר″ר של</foreign>ום נ″י! ראשית אודיעכם, אַז איך בין
+              אַ שטיק געזונט.</stage> „לכּבֿוד ידידי היקר הנכבד והמופֿלג הנגיד והקצין איש ח<foreign xml:lang="heb">סיד וירא־שמים כש″ת מוהר″ר של</foreign>ום נ″י! ראשית אודיעכם, אַז איך בין
             <foreign xml:lang="heb">ברוך־השם בקװ־החײם־והשלום</foreign>, גיב גאָט דאָס נעמלעכע פֿון אײַך צו הערן אױף װײַטער ניט ערגער,
             אָמן. והשנית, זײַט װיסן, אַז <foreign xml:lang="heb">השידוך עם הגבֿיר שלכם</foreign>, װאָס איר האָט מיר געהאַט געשריבן, ועם
             <foreign xml:lang="heb">הגבֿיר שלנו</foreign>, האָב איך מורא װעט ניט גײן, מחמת ערשטנס האָט איר מסתּמא געהערט די מעשׂה,

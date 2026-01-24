@@ -5,8 +5,8 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">אַ דאָקטער</title>
-        <title type="main" xml:lang="eng">The Doctor</title>
+        <title>אַ דאָקטער</title>
+        <title xml:lang="eng">The Doctor</title>
         <title type="sub">אַ שפּאַס אין אײן אַקט</title>
         <title type="sub" xml:lang="eng">A Comedy in One Act</title>
         <author>

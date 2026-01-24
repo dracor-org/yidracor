@@ -5,10 +5,10 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">אַ דאָקטער</title>
-        <title type="main" xml:lang="eng">The Doctor</title>
+        <title>אַ דאָקטער</title>
+        <title xml:lang="en">The Doctor</title>
         <title type="sub">אַ שפּאַס אין אײן אַקט</title>
-        <title type="sub" xml:lang="eng">A Comedy in One Act</title>
+        <title type="sub" xml:lang="en">A Comedy in One Act</title>
         <author>
           <persName type="pseudo">שלום עליכם</persName>
           <idno type="wikidata">Q238090</idno>
@@ -18,10 +18,7 @@
         <publisher xml:id="dracor">DraCor</publisher>
         <idno type="URL">https://dracor.org</idno>
         <availability>
-          <licence>
-            <ab>CC0 1.0</ab>
-            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
-          </licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</licence>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -204,11 +201,11 @@
             <stage>נעמט דאָס בריװל; טוט אָן אַ פּאָר זילבערנע ברילן אױף דער נאָז; זעצט זיך אַנידער
               און הײבט אָן צו לײענען הױך, אױף אַ קול. חנה־לאה זעצט זיך לעבן אים, און רב שלום־שדכן
               שטײט און שאָקלט צו מיטן קאָפּ נאָך יעדן װאָרט און מאַכט מיט די ליפּן; עס קומט אים צו
-              אַ שטיק געזונט.</stage> „לכּבֿוד ידידי היקר הנכבד והמופֿלג הנגיד והקצין איש ח<foreign xml:lang="heb">סיד וירא־שמים כש″ת מוהר″ר של</foreign>ום נ″י! ראשית אודיעכם, אַז איך בין
-            <foreign xml:lang="heb">ברוך־השם בקװ־החײם־והשלום</foreign>, גיב גאָט דאָס נעמלעכע פֿון אײַך צו הערן אױף װײַטער ניט ערגער,
-            אָמן. והשנית, זײַט װיסן, אַז <foreign xml:lang="heb">השידוך עם הגבֿיר שלכם</foreign>, װאָס איר האָט מיר געהאַט געשריבן, ועם
-            <foreign xml:lang="heb">הגבֿיר שלנו</foreign>, האָב איך מורא װעט ניט גײן, מחמת ערשטנס האָט איר מסתּמא געהערט די מעשׂה,
-            װאָס האָט זיך געטראָפֿן מיטן <foreign xml:lang="heb">מחותּן של הגבֿיר שלנו</foreign>, װאָס זײַן עלטערע טאָכטער האָט זיך…“
+              אַ שטיק געזונט.</stage> „לכּבֿוד ידידי היקר הנכבד והמופֿלג הנגיד והקצין איש ח<foreign xml:lang="he">סיד וירא־שמים כש″ת מוהר″ר של</foreign>ום נ″י! ראשית אודיעכם, אַז איך בין
+            <foreign xml:lang="he">ברוך־השם בקװ־החײם־והשלום</foreign>, גיב גאָט דאָס נעמלעכע פֿון אײַך צו הערן אױף װײַטער ניט ערגער,
+            אָמן. והשנית, זײַט װיסן, אַז <foreign xml:lang="he">השידוך עם הגבֿיר שלכם</foreign>, װאָס איר האָט מיר געהאַט געשריבן, ועם
+            <foreign xml:lang="he">הגבֿיר שלנו</foreign>, האָב איך מורא װעט ניט גײן, מחמת ערשטנס האָט איר מסתּמא געהערט די מעשׂה,
+            װאָס האָט זיך געטראָפֿן מיטן <foreign xml:lang="he">מחותּן של הגבֿיר שלנו</foreign>, װאָס זײַן עלטערע טאָכטער האָט זיך…“
             צו װאָס טױג עס מיר? צו װאָס דאַרף איך עס װיסן? </p>
         </sp>
         <sp who="#rb_shlum-shdkhn">
@@ -257,13 +254,13 @@
           <speaker>רב שלום־שדכן</speaker>
           <p>
             <stage>לײענט גיך און פֿאַרכלינעט זיך.</stage> „… אַי־אַי־אַי! אָט דאָס האָט איר פֿון
-            הײַנטיקע לערערס מיט הײַנטיקע דאָקטױרים…“ על־כּל־פּנים… יאָ… „איז <foreign xml:lang="heb">הגבֿיר שלנו</foreign> ניט קײן
-            מחותּן פֿאַר <foreign xml:lang="heb">הגבֿיר שלכם</foreign>; על־כּן האָב איך אַ בעסערן, אַ שענערן, אַ פֿײַנערן און אַ
-            גרעסערן שידוך בעבֿור <foreign xml:lang="heb">הגבֿיר שלכם</foreign> אין אַלע אופֿנים, הײַנו: עס איז דאָ אין דער שטאָט
+            הײַנטיקע לערערס מיט הײַנטיקע דאָקטױרים…“ על־כּל־פּנים… יאָ… „איז <foreign xml:lang="he">הגבֿיר שלנו</foreign> ניט קײן
+            מחותּן פֿאַר <foreign xml:lang="he">הגבֿיר שלכם</foreign>; על־כּן האָב איך אַ בעסערן, אַ שענערן, אַ פֿײַנערן און אַ
+            גרעסערן שידוך בעבֿור <foreign xml:lang="he">הגבֿיר שלכם</foreign> אין אַלע אופֿנים, הײַנו: עס איז דאָ אין דער שטאָט
             ליפּעװעץ זײער אַ פֿײַנע אַלמנה מרת בײלה שתּחיה, בײלה גאָלדשפּינער, און הגם זי איז ניט
-            אַזױ רײַך, װי <foreign xml:lang="heb">הגבֿיר שלכם</foreign>, דערפֿאַר שטאַמט זי אָבער פֿון גאָר אַ הױך אָרט, פֿון רבֿ
+            אַזױ רײַך, װי <foreign xml:lang="he">הגבֿיר שלכם</foreign>, דערפֿאַר שטאַמט זי אָבער פֿון גאָר אַ הױך אָרט, פֿון רבֿ
             פּינחסל ליפּעװיצער, און איבערהױפּט ― װאָס זי האָט אַ זון, אַ בן־יחיד, אַן אַנטיקל, װאָס
-            מע קריגט דאָס ניט <foreign xml:lang="heb">בכל קצװי ארץ</foreign>, הײַנו: שײן, פֿײַן, שרעקלעך געבילדעט מיט סכּנות־נפֿשות! אַ
+            מע קריגט דאָס ניט <foreign xml:lang="he">בכל קצװי ארץ</foreign>, הײַנו: שײן, פֿײַן, שרעקלעך געבילדעט מיט סכּנות־נפֿשות! אַ
             געשטודירטער, פֿאַרשטײט איר מיך, אױף אַלע לשונות, געבילדעט באמת װי אַ דאָקטער, און אפֿשר
             נאָך מער װי אַ דאָקטער, װאָס פֿאַרשטעקן אַלע דאָקטױרים אין גאַרטל…“ <stage>צו
               חנה־לאהן.</stage> נו? װאָס װעט איר עפּעס זאָגן אױפֿן שידוך? איר זײט דאָך, װי זאָגט
@@ -385,7 +382,7 @@
         <sp who="#abramtshik">
           <speaker>אַבראַמטשיק</speaker>
           <p>װער זאָגט דען, אַז ער איז אַ „בהמה“? איך זאָג נאָר, אַז ער װײס ניט, װײַל ס'איז אַן
-            „<foreign xml:lang="rus">אינאָסטראַנע</foreign>“ װאָרט.</p>
+            „<foreign xml:lang="ru">אינאָסטראַנע</foreign>“ װאָרט.</p>
         </sp>
         <sp who="#rb_shlum-shdkhn">
           <speaker>רב שלום־שדכן</speaker>
@@ -394,7 +391,7 @@
         <sp who="#abramtshik">
           <speaker>אַבראַמטשיק</speaker>
           <p>
-            <stage>בײגט זיך צו צו רב שלום־שדכן.</stage> אינאָסטראַנע ― װײסט איר שױן? <foreign xml:lang="rus">אינאָסטראַנאָיע
+            <stage>בײגט זיך צו צו רב שלום־שדכן.</stage> אינאָסטראַנע ― װײסט איר שױן? <foreign xml:lang="ru">אינאָסטראַנאָיע
             סלאָװאָ!</foreign> </p>
         </sp>
         <sp who="#rb_shlum-shdkhn">
@@ -497,7 +494,7 @@
         </sp>
         <sp who="#abramtshik">
           <speaker>אַבראַמטשיק</speaker>
-          <p>ניט דאָס און ניט יענץ און ניט גאָרנישט? טאָ װאָס דען איז ער? אַ <foreign xml:lang="rus">קופּטשיק</foreign>? אַ
+          <p>ניט דאָס און ניט יענץ און ניט גאָרנישט? טאָ װאָס דען איז ער? אַ <foreign xml:lang="ru">קופּטשיק</foreign>? אַ
             טונעיאַדעץ?</p>
         </sp>
         <sp who="#rb_shlum-shdkhn">
@@ -653,7 +650,7 @@
         <sp who="#vyerotshke">
           <speaker>װיעראָטשקע</speaker>
           <p>
-            <stage>צום שדכן.</stage> <foreign xml:lang="fra">באָנזשור, מאָנסיע</foreign>! </p>
+            <stage>צום שדכן.</stage> <foreign xml:lang="fr">באָנזשור, מאָנסיע</foreign>! </p>
         </sp>
         <sp who="#rb_shlum-shdkhn">
           <speaker>רב שלום־שדכן</speaker>
@@ -661,7 +658,7 @@
         </sp>
         <sp who="#vyerotshke">
           <speaker>װיעראָטשקע</speaker>
-          <p>כאַ־כאַ־כאַ! אָט אַ <foreign xml:lang="rus">ניעװעזשדאַ</foreign>! „באָנזשור מאָנסיע“ הײסט ― גוט מאָרגן אײַך, מײַן הער.</p>
+          <p>כאַ־כאַ־כאַ! אָט אַ <foreign xml:lang="ru">ניעװעזשדאַ</foreign>! „באָנזשור מאָנסיע“ הײסט ― גוט מאָרגן אײַך, מײַן הער.</p>
         </sp>
         <sp who="#rb_shlum-shdkhn">
           <speaker>רב שלום־שדכן</speaker>
@@ -693,7 +690,7 @@
         <sp who="#vyerotshke">
           <speaker>װיעראָטשקע</speaker>
           <p>
-            <stage>צו דער מוטער.</stage> אַ <foreign xml:lang="rus">קאָמיטשעסקע</foreign> פֿיגור! כאַ־כאַ־כאַ! פֿון װאַנען נעמען זיך
+            <stage>צו דער מוטער.</stage> אַ <foreign xml:lang="ru">קאָמיטשעסקע</foreign> פֿיגור! כאַ־כאַ־כאַ! פֿון װאַנען נעמען זיך
             אַזעלכע ניעװעזשדעס? װאָס טוט דאָ בײַ אײַך דער שדכן? </p>
         </sp>
         <sp who="#khnh-lh">
